@@ -1,0 +1,3085 @@
+window.__CATALOG__ = {
+ "generated": "2026-11-22",
+ "rates": {
+  "USD": 1.0,
+  "EUR": 1.08,
+  "GBP": 1.27,
+  "CAD": 0.72,
+  "DKK": 0.145,
+  "AUD": 0.66
+ },
+ "count": 63,
+ "products": [
+  {
+   "id": "clo-0c33435c",
+   "category": "clothes",
+   "brand": "Stüssy",
+   "name": "Micro Ripstop Down Jacket",
+   "type": "OUTERWEAR",
+   "price": 325.0,
+   "mrp": null,
+   "currency": "USD",
+   "priceUSD": 325.0,
+   "options": {
+    "label": "Size",
+    "values": [
+     {
+      "label": "S",
+      "available": true
+     },
+     {
+      "label": "M",
+      "available": true
+     },
+     {
+      "label": "L",
+      "available": true
+     },
+     {
+      "label": "XL",
+      "available": true
+     },
+     {
+      "label": "XXL",
+      "available": false
+     }
+    ]
+   },
+   "description": {
+    "paragraphs": [],
+    "bullets": [
+     "Classic fit mock neck jacket in nylon micro ripstop",
+     "800-fill quilted down",
+     "Metal YKK zip closure",
+     "Stüssy basic logo embroidery at chest",
+     "Lycra-bound pockets with concealed zip closure",
+     "Elasticated cuffs",
+     "Adjustable shock cord at hem",
+     "Interior storm flap"
+    ]
+   },
+   "tags": [
+    "10-14-25-PROMO",
+    "bis-active",
+    "COLORSWATCHES",
+    "DRAFT-SP26-D1",
+    "FA26-D1-RELAUNCH",
+    "HO25-DELIVERY-1"
+   ],
+   "store": "Stüssy",
+   "storeDomain": "stussy.com",
+   "url": "https://www.stussy.com/products/115877-micro-ripstop-down-jacket-red",
+   "cut": "img/clo-0c33435c/cut.webp",
+   "cutAspect": 1.2016,
+   "images": [
+    "img/clo-0c33435c/1.webp",
+    "img/clo-0c33435c/2.webp",
+    "img/clo-0c33435c/3.webp",
+    "img/clo-0c33435c/4.webp"
+   ],
+   "packshotIndex": 5
+  },
+  {
+   "id": "clo-4fd448a1",
+   "category": "clothes",
+   "brand": "Aimé Leon Dore",
+   "name": "Striped Hand-Knit Sweater",
+   "type": "Sweaters",
+   "price": 895.0,
+   "mrp": null,
+   "currency": "USD",
+   "priceUSD": 895.0,
+   "options": {
+    "label": "Size",
+    "values": [
+     {
+      "label": "XS",
+      "available": false
+     },
+     {
+      "label": "S",
+      "available": false
+     },
+     {
+      "label": "M",
+      "available": false
+     },
+     {
+      "label": "L",
+      "available": false
+     },
+     {
+      "label": "XL",
+      "available": false
+     },
+     {
+      "label": "XXL",
+      "available": true
+     }
+    ]
+   },
+   "description": {
+    "paragraphs": [],
+    "bullets": [
+     "SIZE BODY LENGTH CHEST WIDTH SLEEVE LENGTH XS 25 21½ 32½ S 26 22½ 33½ M 27 23½ 34½ L 28 24½ 35½ XL 29 26 36½ XXL 30 27½ 37½"
+    ]
+   },
+   "tags": [
+    "a_fw26_family",
+    "a_fw26_forhim",
+    "a_fw26_holiday",
+    "a_fw26_holidayday2",
+    "AltText_tagged",
+    "best_seller"
+   ],
+   "store": "Aimé Leon Dore",
+   "storeDomain": "aimeleondore.com",
+   "url": "https://www.aimeleondore.com/products/striped-hand-knit-sweater",
+   "cut": "img/clo-4fd448a1/cut.webp",
+   "cutAspect": 0.9333,
+   "images": [
+    "img/clo-4fd448a1/1.webp",
+    "img/clo-4fd448a1/2.webp",
+    "img/clo-4fd448a1/3.webp",
+    "img/clo-4fd448a1/4.webp"
+   ],
+   "packshotIndex": 0
+  },
+  {
+   "id": "clo-332f6ba5",
+   "category": "clothes",
+   "brand": "Represent",
+   "name": "Owners Club Script Hoodie - Dusty Blue",
+   "type": "Hoodies",
+   "price": 80.0,
+   "mrp": 200.0,
+   "currency": "USD",
+   "priceUSD": 80.0,
+   "options": {
+    "label": "Size",
+    "values": [
+     {
+      "label": "XXS",
+      "available": false
+     },
+     {
+      "label": "XS",
+      "available": false
+     },
+     {
+      "label": "S",
+      "available": false
+     },
+     {
+      "label": "M",
+      "available": false
+     },
+     {
+      "label": "L",
+      "available": true
+     },
+     {
+      "label": "XL",
+      "available": false
+     },
+     {
+      "label": "XXL",
+      "available": false
+     }
+    ]
+   },
+   "description": {
+    "paragraphs": [
+     "Introducing the latest evolution of the Represent Owners’ Club Hoodie in Dusty Blue, crafted from heavy weight jersey cotton with a slightly oversized fit. The hoodie features a ribbed hem and cuffs, with a Cobrax popper to the hood and Represent metal bar to the pocket.",
+     "The hoodie has a water based screen print script graphic to the back, with a brushed effect applied to the screen itself for a natural paint brush style finesse to the print. It maintains a balance with the DNA of the original style, with our “Powered by enthusiasts, for enthusiasts” motif.",
+     "Composition: 100% Cotton",
+     "480gsm"
+    ],
+    "bullets": [
+     "Represent Owners’ Club Script Hoodie",
+     "Dusty Blue",
+     "Oversized Fit",
+     "Cobrax Popper",
+     "Loopback Jersey",
+     "Ribbed Trims",
+     "Represent Metal Bar Logo"
+    ]
+   },
+   "tags": [
+    "081124",
+    "Airtable",
+    "baby blue",
+    "BFCM2026",
+    "Blue",
+    "cobalt"
+   ],
+   "store": "Represent",
+   "storeDomain": "representclo.com",
+   "url": "https://representclo.com/products/represent-owners-club-script-hoodie-dusty-blue",
+   "cut": "img/clo-332f6ba5/cut.webp",
+   "cutAspect": 0.8511,
+   "images": [
+    "img/clo-332f6ba5/1.webp",
+    "img/clo-332f6ba5/2.webp",
+    "img/clo-332f6ba5/3.webp",
+    "img/clo-332f6ba5/4.webp"
+   ],
+   "packshotIndex": 0
+  },
+  {
+   "id": "clo-bb968942",
+   "category": "clothes",
+   "brand": "Fear of God",
+   "name": "Melange Wool Relaxed Jacket",
+   "type": "Jackets and OTW",
+   "price": 1190.0,
+   "mrp": null,
+   "currency": "USD",
+   "priceUSD": 1190.0,
+   "options": {
+    "label": "Size",
+    "values": [
+     {
+      "label": "44",
+      "available": true
+     },
+     {
+      "label": "46",
+      "available": true
+     },
+     {
+      "label": "48",
+      "available": true
+     },
+     {
+      "label": "50",
+      "available": true
+     },
+     {
+      "label": "52",
+      "available": true
+     },
+     {
+      "label": "54",
+      "available": true
+     }
+    ]
+   },
+   "description": {
+    "paragraphs": [
+     "The Relaxed Jacket is tailored from Virgin Mélange wool with elastane for lightweight stretch comfort with compelling visual texture. The casual relaxed tailored jacket is lined with Bemberg cupro and features with a narrow lapel, snap button front. The iconic 4-stitch Fear of God label on sleeve."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "+SSRPUPDATE11_12_2026",
+    "20260916",
+    "cf-type-suiting",
+    "EternalOrder_2026",
+    "FALL WINTER 2026",
+    "Fear of God"
+   ],
+   "store": "Fear of God",
+   "storeDomain": "fearofgod.com",
+   "url": "https://www.fearofgod.com/products/mainline-relaxed-jacket-rw00937-military-melange",
+   "cut": "img/clo-bb968942/cut.webp",
+   "cutAspect": 1.049,
+   "images": [
+    "img/clo-bb968942/1.webp",
+    "img/clo-bb968942/2.webp",
+    "img/clo-bb968942/3.webp",
+    "img/clo-bb968942/4.webp"
+   ],
+   "packshotIndex": 0
+  },
+  {
+   "id": "clo-498b68b8",
+   "category": "clothes",
+   "brand": "Colorful Standard",
+   "name": "Women Merino Wool Collar Cardigan - Fern Green",
+   "type": "CS5080/Merino Wool Collar Cardigan/F",
+   "price": 175.0,
+   "mrp": null,
+   "currency": "USD",
+   "priceUSD": 175.0,
+   "options": {
+    "label": "Size",
+    "values": [
+     {
+      "label": "XS",
+      "available": true
+     },
+     {
+      "label": "S",
+      "available": true
+     },
+     {
+      "label": "M",
+      "available": true
+     },
+     {
+      "label": "L",
+      "available": true
+     },
+     {
+      "label": "XL",
+      "available": true
+     }
+    ]
+   },
+   "description": {
+    "paragraphs": [
+     "100% recycled merino wool cardigan, made in Portugal from Italian yarn. A new silhouette that’s slightly shorter and better fitted, with a polished knitted collar, tonal buttons and ribbed cuffs and hem. Soft and warm without the weight, wear it open over a tee or buttoned up for a cleaner look."
+    ],
+    "bullets": [
+     "100% recycled merino wool",
+     "Italian yarn",
+     "Made in Portugal",
+     "Collared neckline with button-down front",
+     "Tonal buttons",
+     "Ribbed cuffs and hem",
+     "Pre-washed"
+    ]
+   },
+   "tags": [
+    "CS5080",
+    "Female",
+    "Fern Green",
+    "Recycled Merino Wool",
+    "Women"
+   ],
+   "store": "Colorful Standard",
+   "storeDomain": "colorfulstandard.com",
+   "url": "https://www.colorfulstandard.com/products/women-merino-wool-collar-cardigan-fern-green-female",
+   "cut": "img/clo-498b68b8/cut.webp",
+   "cutAspect": 0.6956,
+   "images": [
+    "img/clo-498b68b8/1.webp",
+    "img/clo-498b68b8/2.webp",
+    "img/clo-498b68b8/3.webp",
+    "img/clo-498b68b8/4.webp"
+   ],
+   "packshotIndex": 0
+  },
+  {
+   "id": "clo-e3d577c8",
+   "category": "clothes",
+   "brand": "Aimé Leon Dore",
+   "name": "Boiled Wool Letterman Sweater",
+   "type": "Sweaters",
+   "price": 450.0,
+   "mrp": null,
+   "currency": "USD",
+   "priceUSD": 450.0,
+   "options": {
+    "label": "Size",
+    "values": [
+     {
+      "label": "XS",
+      "available": false
+     },
+     {
+      "label": "S",
+      "available": true
+     },
+     {
+      "label": "M",
+      "available": true
+     },
+     {
+      "label": "L",
+      "available": true
+     },
+     {
+      "label": "XL",
+      "available": false
+     }
+    ]
+   },
+   "description": {
+    "paragraphs": [],
+    "bullets": [
+     "Model is 5’9.5“ wearing a size S SIZE BODY LENGTH CHEST WIDTH SLEEVE LENGTH XS 19¼ 18¾ 30½ S 19⅞ 19¾ 31 M 20½ 20¾ 31½ L 21⅛ 22¼ 32 XL 21¾ 23¾ 32½"
+    ]
+   },
+   "tags": [
+    "a_fw26_womens",
+    "AltText_tagged",
+    "dev-collection-WOMENS CAPSULE",
+    "dev-product-type-women",
+    "dev-season-AW26",
+    "dev-size-range-88"
+   ],
+   "store": "Aimé Leon Dore",
+   "storeDomain": "aimeleondore.com",
+   "url": "https://www.aimeleondore.com/products/boiled-wool-letterman-sweater",
+   "cut": "img/clo-e3d577c8/cut.webp",
+   "cutAspect": 1.0147,
+   "images": [
+    "img/clo-e3d577c8/1.webp",
+    "img/clo-e3d577c8/2.webp",
+    "img/clo-e3d577c8/3.webp",
+    "img/clo-e3d577c8/4.webp"
+   ],
+   "packshotIndex": 0
+  },
+  {
+   "id": "clo-7451c181",
+   "category": "clothes",
+   "brand": "Stüssy",
+   "name": "Midweight Hooded Puffer",
+   "type": "Outerwear",
+   "price": 245.0,
+   "mrp": null,
+   "currency": "USD",
+   "priceUSD": 245.0,
+   "options": {
+    "label": "Size",
+    "values": [
+     {
+      "label": "XS",
+      "available": true
+     },
+     {
+      "label": "S",
+      "available": true
+     },
+     {
+      "label": "M",
+      "available": true
+     },
+     {
+      "label": "L",
+      "available": true
+     },
+     {
+      "label": "XL",
+      "available": true
+     },
+     {
+      "label": "XXL",
+      "available": true
+     }
+    ]
+   },
+   "description": {
+    "paragraphs": [],
+    "bullets": [
+     "Classic fit hooded puffer jacket",
+     "Semi-transparent nylon micro ripstop",
+     "600-fill midweight quilted down",
+     "Water repellent",
+     "Drawcords with cordlocks at hood and hem",
+     "YKK VISLON® zip closure with cord puller",
+     "Stüssy basic logo embroidery at front",
+     "Elasticated cuffs"
+    ]
+   },
+   "tags": [
+    "AC-FEATURED-PRODUCTS",
+    "bis-active",
+    "COLORSWATCHES",
+    "FA26-D1-RELAUNCH",
+    "HO26-DELIVERY-2",
+    "MENS"
+   ],
+   "store": "Stüssy",
+   "storeDomain": "stussy.com",
+   "url": "https://www.stussy.com/products/115856-midweight-hooded-puffer-lime",
+   "cut": "img/clo-7451c181/cut.webp",
+   "cutAspect": 0.9144,
+   "images": [
+    "img/clo-7451c181/1.webp",
+    "img/clo-7451c181/2.webp",
+    "img/clo-7451c181/3.webp",
+    "img/clo-7451c181/4.webp"
+   ],
+   "packshotIndex": 3
+  },
+  {
+   "id": "clo-707cbd82",
+   "category": "clothes",
+   "brand": "Aimé Leon Dore",
+   "name": "ALD / Vanson Paneled Leather Moto Jacket",
+   "type": "Outerwear",
+   "price": 2495.0,
+   "mrp": null,
+   "currency": "USD",
+   "priceUSD": 2495.0,
+   "options": {
+    "label": "Size",
+    "values": [
+     {
+      "label": "XS",
+      "available": true
+     },
+     {
+      "label": "S",
+      "available": true
+     },
+     {
+      "label": "M",
+      "available": true
+     },
+     {
+      "label": "L",
+      "available": true
+     },
+     {
+      "label": "XL",
+      "available": true
+     },
+     {
+      "label": "XXL",
+      "available": true
+     }
+    ]
+   },
+   "description": {
+    "paragraphs": [],
+    "bullets": [
+     "SIZE BODY LENGTH CHEST WIDTH SLEEVE LENGTH XS 23¾ 21¾ 33 S 24⅜ 22¾ 34 M 25 23¾ 35 L 25⅝ 24¾ 36 XL 26¼ 26¼ 37 XXL 26⅞ 27¾ 38"
+    ]
+   },
+   "tags": [
+    "a_fw26_forhim",
+    "a_fw26_holiday",
+    "a_fw26_holidayday1",
+    "a_fw26_holidayday2",
+    "AltText_tagged",
+    "best_seller"
+   ],
+   "store": "Aimé Leon Dore",
+   "storeDomain": "aimeleondore.com",
+   "url": "https://www.aimeleondore.com/products/ald-vanson-paneled-leather-moto-jacket",
+   "cut": "img/clo-707cbd82/cut.webp",
+   "cutAspect": 0.9456,
+   "images": [
+    "img/clo-707cbd82/1.webp",
+    "img/clo-707cbd82/2.webp",
+    "img/clo-707cbd82/3.webp",
+    "img/clo-707cbd82/4.webp"
+   ],
+   "packshotIndex": 0
+  },
+  {
+   "id": "clo-b5fefebd",
+   "category": "clothes",
+   "brand": "Colorful Standard",
+   "name": "Oversized Merino Wool Crew - Cherry Blossom",
+   "type": "CS5088/Oversized Merino Wool Crew/F",
+   "price": 120.0,
+   "mrp": null,
+   "currency": "USD",
+   "priceUSD": 120.0,
+   "options": {
+    "label": "Size",
+    "values": [
+     {
+      "label": "XXS",
+      "available": true
+     },
+     {
+      "label": "XS",
+      "available": true
+     },
+     {
+      "label": "S",
+      "available": true
+     },
+     {
+      "label": "M",
+      "available": true
+     },
+     {
+      "label": "L",
+      "available": true
+     },
+     {
+      "label": "XL",
+      "available": true
+     },
+     {
+      "label": "2XL",
+      "available": false
+     }
+    ]
+   },
+   "description": {
+    "paragraphs": [
+     "Wrap yourself in luxurious comfort and warmth with our Women's Merino Wool Oversized Crew, the epitome of cozy sophistication. Crafted from premium recycled merino wool, this oversized crewneck sweater offers unparalleled softness, breathability, and temperature regulation for year-round comfort.",
+     "Made from 100% recycled merino wool, this sweater is incredibly soft and gentle on your skin. Featuring an oversized silhouette, this crewneck sweater offers a relaxed fit that drapes effortlessly over the body for a chic and comfortable look. The dropped shoulders add to the relaxed vibe, while the ribbed cuffs and hem provide a secure fit that retains its shape wear after wear.",
+     "Style this sweater casual or dressy, pair it with jeans and boots for a casual yet polished fit, or layer it over our organic sweatpants for a relaxed night in."
+    ],
+    "bullets": [
+     "100% Recycled Extra-Fine Merino Wool",
+     "Made in Portugal",
+     "Crewneck Collar",
+     "Ribbed Hems and Cuffs",
+     "Oversized Fit",
+     "Dropped Shoulders",
+     "Unisex Style"
+    ]
+   },
+   "tags": [
+    "100% Merino Wool",
+    "22 Drop Jun-Sep",
+    "22 Drop Oct-Nov",
+    "23 Drop Jan-Mar",
+    "CAT-Womens-Sweaters",
+    "CAT-Womens-Sweaters-Crewnecks"
+   ],
+   "store": "Colorful Standard",
+   "storeDomain": "colorfulstandard.com",
+   "url": "https://www.colorfulstandard.com/products/oversized-merino-wool-crew-cherry-blossom-female",
+   "cut": "img/clo-b5fefebd/cut.webp",
+   "cutAspect": 0.7556,
+   "images": [
+    "img/clo-b5fefebd/1.webp",
+    "img/clo-b5fefebd/2.webp",
+    "img/clo-b5fefebd/3.webp",
+    "img/clo-b5fefebd/4.webp"
+   ],
+   "packshotIndex": 0
+  },
+  {
+   "id": "clo-1bd30a6a",
+   "category": "clothes",
+   "brand": "Represent",
+   "name": "Initial Oversized Hoodie - Midnight Navy",
+   "type": "Hoodies",
+   "price": 112.0,
+   "mrp": 140.0,
+   "currency": "USD",
+   "priceUSD": 112.0,
+   "options": {
+    "label": "Size",
+    "values": [
+     {
+      "label": "XXS",
+      "available": false
+     },
+     {
+      "label": "XS",
+      "available": true
+     },
+     {
+      "label": "S",
+      "available": true
+     },
+     {
+      "label": "M",
+      "available": false
+     },
+     {
+      "label": "L",
+      "available": false
+     },
+     {
+      "label": "XL",
+      "available": false
+     },
+     {
+      "label": "XXL",
+      "available": false
+     }
+    ]
+   },
+   "description": {
+    "paragraphs": [
+     "Introducing the Initial Oversized Hoodie in Midnight Navy, an oversized silhouette crafted from 390gsm cotton in a clean solid colourway. Designed with relaxed oversized proportions, the piece delivers everyday comfort with a premium weight and substantial hand feel.",
+     "Featuring a double layer hood, kangaroo pocket and 1x1 rib to the hem and cuffs, the hoodie is built with minimal twin needle stitching throughout. Finished with the signature Represent metal bar at the pocket opening and embroidered Initial branding to the hood.",
+     "Composition: 100% Cotton",
+     "390gsm"
+    ],
+    "bullets": [
+     "Midnight Navy Colourway",
+     "Oversized Fit",
+     "390gsm Heavyweight Cotton",
+     "Double Layer Hood",
+     "Kangaroo Pocket",
+     "1x1 Rib Hem And Cuffs",
+     "Minimal Twin Needle Stitching Throughout",
+     "Signature Represent Metal Bar At Pocket Opening"
+    ]
+   },
+   "tags": [
+    "080426",
+    "Airtable",
+    "baby blue",
+    "BFCM2026",
+    "Blue",
+    "cobalt"
+   ],
+   "store": "Represent",
+   "storeDomain": "representclo.com",
+   "url": "https://representclo.com/products/initial-oversized-hoodie-midnight-navy",
+   "cut": "img/clo-1bd30a6a/cut.webp",
+   "cutAspect": 0.8933,
+   "images": [
+    "img/clo-1bd30a6a/1.webp",
+    "img/clo-1bd30a6a/2.webp",
+    "img/clo-1bd30a6a/3.webp",
+    "img/clo-1bd30a6a/4.webp"
+   ],
+   "packshotIndex": 0
+  },
+  {
+   "id": "clo-d14b42d5",
+   "category": "clothes",
+   "brand": "Aimé Leon Dore",
+   "name": "Poros Jacquard Pullover",
+   "type": "Sweaters",
+   "price": 450.0,
+   "mrp": null,
+   "currency": "USD",
+   "priceUSD": 450.0,
+   "options": {
+    "label": "Size",
+    "values": [
+     {
+      "label": "XS",
+      "available": true
+     },
+     {
+      "label": "S",
+      "available": true
+     },
+     {
+      "label": "M",
+      "available": true
+     },
+     {
+      "label": "L",
+      "available": true
+     },
+     {
+      "label": "XL",
+      "available": true
+     }
+    ]
+   },
+   "description": {
+    "paragraphs": [],
+    "bullets": [
+     "Model is 5’9.5“ wearing a size S SIZE BODY LENGTH CHEST WIDTH SLEEVE LENGTH XS 20 19 30 S 20⅝ 20 30½ M 21¼ 21 31 L 21⅞ 22½ 31½ XL 22½ 24 32"
+    ]
+   },
+   "tags": [
+    "a_fw26_womens",
+    "AltText_tagged",
+    "dev-collection-WOMENS CAPSULE",
+    "dev-product-type-women",
+    "dev-season-AW26",
+    "dev-size-range-88"
+   ],
+   "store": "Aimé Leon Dore",
+   "storeDomain": "aimeleondore.com",
+   "url": "https://www.aimeleondore.com/products/poros-jacquard-pullover",
+   "cut": "img/clo-d14b42d5/cut.webp",
+   "cutAspect": 1.1057,
+   "images": [
+    "img/clo-d14b42d5/1.webp",
+    "img/clo-d14b42d5/2.webp",
+    "img/clo-d14b42d5/3.webp",
+    "img/clo-d14b42d5/4.webp"
+   ],
+   "packshotIndex": 0
+  },
+  {
+   "id": "clo-aeedc502",
+   "category": "clothes",
+   "brand": "Fear of God Essentials",
+   "name": "MLB Coaches Jacket",
+   "type": "Jackets and OTW",
+   "price": 132.0,
+   "mrp": 220.0,
+   "currency": "USD",
+   "priceUSD": 132.0,
+   "options": {
+    "label": "Size",
+    "values": [
+     {
+      "label": "XS",
+      "available": true
+     },
+     {
+      "label": "S",
+      "available": true
+     },
+     {
+      "label": "M",
+      "available": true
+     },
+     {
+      "label": "L",
+      "available": true
+     },
+     {
+      "label": "XL",
+      "available": true
+     },
+     {
+      "label": "XXL",
+      "available": true
+     }
+    ]
+   },
+   "description": {
+    "paragraphs": [
+     "The MLB Coaches Jacket is constructed in nylon-spandex and designed with an oversized fit for layering . A Fear of God Baseball puffer print is on the front, and Fear of God MLB logo are on the back. Additional details include shirt colla, front metal snap closure, elastic waist hem with drawstring, and Fear of God Essentials label.",
+     "Size Note: size down for classic fit."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "20250822",
+    "2026_May_Markdown",
+    "Athletics & Team Apparel",
+    "ATP",
+    "bf25",
+    "BFCM_2026"
+   ],
+   "store": "Fear of God",
+   "storeDomain": "fearofgod.com",
+   "url": "https://www.fearofgod.com/products/mlb-coaches-jacket-202ml254101f-black",
+   "cut": "img/clo-aeedc502/cut.webp",
+   "cutAspect": 1.0526,
+   "images": [
+    "img/clo-aeedc502/1.webp",
+    "img/clo-aeedc502/2.webp",
+    "img/clo-aeedc502/3.webp",
+    "img/clo-aeedc502/4.webp"
+   ],
+   "packshotIndex": 0
+  },
+  {
+   "id": "clo-822f8865",
+   "category": "clothes",
+   "brand": "Colorful Standard",
+   "name": "Merino Wool Turtleneck - Soft Lavender",
+   "type": "CS5089/Merino Wool Turtleneck/F",
+   "price": 140.0,
+   "mrp": null,
+   "currency": "USD",
+   "priceUSD": 140.0,
+   "options": {
+    "label": "Size",
+    "values": [
+     {
+      "label": "XS",
+      "available": true
+     },
+     {
+      "label": "S",
+      "available": true
+     },
+     {
+      "label": "M",
+      "available": true
+     },
+     {
+      "label": "L",
+      "available": true
+     },
+     {
+      "label": "XL",
+      "available": true
+     },
+     {
+      "label": "2XL",
+      "available": false
+     }
+    ]
+   },
+   "description": {
+    "paragraphs": [
+     "Wrap yourself in comfort and style with our Recycled Merino Wool Turtleneck Sweater. Made from recycled merino wool, this turtleneck offers a unique ribbed texture and breathability. It’s your ideal companion for colder days—whether out for a coffee, hitting the slopes, or just enjoying a cozy day at home.",
+     "This sweater feels as good as it looks, with a texture that adds character to any outfit. The relaxed fit and chic ribbed neck, hem, and cuffs, make the Recycled Merino Wool Turtleneck like your favorite blanket—just with a bit more edge.",
+     "You’ll keep reaching for this sweater, year after year, as it effortlessly combines comfort with style. Perfect for layering or wearing solo, it stands out in any crowd."
+    ],
+    "bullets": [
+     "Unisex Style",
+     "100% Recycled Merino Wool",
+     "Pre-washed",
+     "Made in Portugal"
+    ]
+   },
+   "tags": [
+    "CAT-Womens-Merino-Turtleneck",
+    "Colorful Standard",
+    "CS5089",
+    "Female",
+    "kvinde",
+    "kvinder"
+   ],
+   "store": "Colorful Standard",
+   "storeDomain": "colorfulstandard.com",
+   "url": "https://www.colorfulstandard.com/products/merino-wool-turtleneck-soft-lavender-female",
+   "cut": "img/clo-822f8865/cut.webp",
+   "cutAspect": 0.7078,
+   "images": [
+    "img/clo-822f8865/1.webp",
+    "img/clo-822f8865/2.webp",
+    "img/clo-822f8865/3.webp",
+    "img/clo-822f8865/4.webp"
+   ],
+   "packshotIndex": 0
+  },
+  {
+   "id": "clo-ac021612",
+   "category": "clothes",
+   "brand": "Aimé Leon Dore",
+   "name": "Cashmere Embroidered Logo Hoodie",
+   "type": "Sweaters",
+   "price": 595.0,
+   "mrp": null,
+   "currency": "USD",
+   "priceUSD": 595.0,
+   "options": {
+    "label": "Size",
+    "values": [
+     {
+      "label": "XS",
+      "available": true
+     },
+     {
+      "label": "S",
+      "available": true
+     },
+     {
+      "label": "M",
+      "available": true
+     },
+     {
+      "label": "L",
+      "available": true
+     },
+     {
+      "label": "XL",
+      "available": true
+     },
+     {
+      "label": "XXL",
+      "available": true
+     }
+    ]
+   },
+   "description": {
+    "paragraphs": [],
+    "bullets": [
+     "SIZE BODY LENGTH CHEST WIDTH SLEEVE LENGTH XS 24 20½ 32¾ S 24⅞ 21½ 33¾ M 25¾ 22½ 34¾ L 26⅝ 23½ 35¾ XL 27½ 25 36¾ XXL 28⅜ 26½ 37¾"
+    ]
+   },
+   "tags": [
+    "a_fw26_cashmere",
+    "a_fw26_forhim",
+    "a_fw26_holiday",
+    "a_fw26_holidayday3",
+    "AltText_tagged",
+    "best_seller"
+   ],
+   "store": "Aimé Leon Dore",
+   "storeDomain": "aimeleondore.com",
+   "url": "https://www.aimeleondore.com/products/cashmere-embroidered-logo-hoodie-2",
+   "cut": "img/clo-ac021612/cut.webp",
+   "cutAspect": 0.7522,
+   "images": [
+    "img/clo-ac021612/1.webp",
+    "img/clo-ac021612/2.webp",
+    "img/clo-ac021612/3.webp",
+    "img/clo-ac021612/4.webp"
+   ],
+   "packshotIndex": 0
+  },
+  {
+   "id": "clo-b6422f55",
+   "category": "clothes",
+   "brand": "Stüssy",
+   "name": "Fur Lined Flight Bomber",
+   "type": "Outerwear",
+   "price": 295.0,
+   "mrp": null,
+   "currency": "USD",
+   "priceUSD": 295.0,
+   "options": {
+    "label": "Size",
+    "values": [
+     {
+      "label": "XS",
+      "available": true
+     },
+     {
+      "label": "S",
+      "available": true
+     },
+     {
+      "label": "M",
+      "available": true
+     },
+     {
+      "label": "L",
+      "available": true
+     },
+     {
+      "label": "XL",
+      "available": false
+     },
+     {
+      "label": "XXL",
+      "available": false
+     }
+    ]
+   },
+   "description": {
+    "paragraphs": [],
+    "bullets": [
+     "Relaxed fit bomber jacket in CORDURA® flight satin",
+     "Fully insulated with faux fur lining",
+     "Mock neck collar",
+     "Talon metal zip closure with interior zip guard",
+     "Front flap pockets with hidden snaps",
+     "MA-1 sleeve pocket with zip",
+     "Stüssy basic logo embroidery at left sleeve",
+     "Ribbed hem and cuffs"
+    ]
+   },
+   "tags": [
+    "AC-FEATURED-PRODUCTS",
+    "bis-active",
+    "COLORSWATCHES",
+    "HO26-DELIVERY-2",
+    "MENS",
+    "NEWCOLLECTION"
+   ],
+   "store": "Stüssy",
+   "storeDomain": "stussy.com",
+   "url": "https://www.stussy.com/products/115989-fur-lined-flight-bomber-snow-camo",
+   "cut": "img/clo-b6422f55/cut.webp",
+   "cutAspect": 1.1057,
+   "images": [
+    "img/clo-b6422f55/1.webp",
+    "img/clo-b6422f55/2.webp",
+    "img/clo-b6422f55/3.webp",
+    "img/clo-b6422f55/4.webp"
+   ],
+   "packshotIndex": 3
+  },
+  {
+   "id": "clo-94d297b5",
+   "category": "clothes",
+   "brand": "Aimé Leon Dore",
+   "name": "Wool Cashmere Jacquard Cardigan",
+   "type": "Sweaters",
+   "price": 350.0,
+   "mrp": null,
+   "currency": "USD",
+   "priceUSD": 350.0,
+   "options": {
+    "label": "Size",
+    "values": [
+     {
+      "label": "XS",
+      "available": true
+     },
+     {
+      "label": "S",
+      "available": true
+     },
+     {
+      "label": "M",
+      "available": true
+     },
+     {
+      "label": "L",
+      "available": true
+     },
+     {
+      "label": "XL",
+      "available": false
+     }
+    ]
+   },
+   "description": {
+    "paragraphs": [],
+    "bullets": [
+     "SIZE BODY LENGTH CHEST WIDTH SLEEVE LENGTH XS 19¼ 15½ 30½ S 19⅞ 16½ 31 M 20½ 17½ 31½ L 21⅛ 19 32 XL 21¾ 20½ 32½"
+    ]
+   },
+   "tags": [
+    "a_fw26_forher",
+    "a_fw26_holidayadds",
+    "a_fw26_womens",
+    "AltText_tagged",
+    "dev-collection-WOMENS CAPSULE",
+    "dev-product-type-women"
+   ],
+   "store": "Aimé Leon Dore",
+   "storeDomain": "aimeleondore.com",
+   "url": "https://www.aimeleondore.com/products/wool-cashmere-jacquard-cardigan",
+   "cut": "img/clo-94d297b5/cut.webp",
+   "cutAspect": 0.9389,
+   "images": [
+    "img/clo-94d297b5/1.webp",
+    "img/clo-94d297b5/2.webp",
+    "img/clo-94d297b5/3.webp",
+    "img/clo-94d297b5/4.webp"
+   ],
+   "packshotIndex": 0
+  },
+  {
+   "id": "bag-b57f84a7",
+   "category": "bags",
+   "brand": "Polène",
+   "name": "Numéro Un - Trio Camel Grainé",
+   "type": "Handbags",
+   "price": 420.0,
+   "mrp": null,
+   "currency": "EUR",
+   "priceUSD": 453.6,
+   "options": {
+    "label": null,
+    "values": []
+   },
+   "description": {
+    "paragraphs": [
+     "Première création de Polène, le \"Numéro Un\" se reconnaît à son entrelacement de courbes et au travail du pli qui donnent au modèle sa forme signature."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "All",
+    "Color_Camel",
+    "color_marron",
+    "color_multicolor",
+    "family_numero-un",
+    "material_cuir-grainé"
+   ],
+   "store": "Polène",
+   "storeDomain": "polene-paris.com",
+   "url": "https://www.polene-paris.com/products/numero-un-trio-camel",
+   "cut": "img/bag-b57f84a7/cut.webp",
+   "cutAspect": 1.0226,
+   "images": [
+    "img/bag-b57f84a7/1.webp",
+    "img/bag-b57f84a7/2.webp",
+    "img/bag-b57f84a7/3.webp",
+    "img/bag-b57f84a7/4.webp"
+   ],
+   "packshotIndex": 0
+  },
+  {
+   "id": "bag-3ec59f05",
+   "category": "bags",
+   "brand": "Cuyana",
+   "name": "Cordina Bag",
+   "type": "Bags",
+   "price": 358.0,
+   "mrp": null,
+   "currency": "USD",
+   "priceUSD": 358.0,
+   "options": {
+    "label": "Size",
+    "values": [
+     {
+      "label": "One Size",
+      "available": true
+     }
+    ]
+   },
+   "description": {
+    "paragraphs": [
+     "An icon reinvented. We redesigned our Tech Case into a versatile mini bag with two ways to carry it. Here in time for holiday parties and evening events as a clutch, it transitions into later seasons as a hands-free daily crossbody wear. Made and lined with luxurious Italian leather."
+    ],
+    "bullets": []
+   },
+   "tags": [],
+   "store": "Cuyana",
+   "storeDomain": "cuyana.com",
+   "url": "https://www.cuyana.com/products/cordina-bag",
+   "cut": "img/bag-3ec59f05/cut.webp",
+   "cutAspect": 1.4085,
+   "images": [
+    "img/bag-3ec59f05/1.webp",
+    "img/bag-3ec59f05/2.webp",
+    "img/bag-3ec59f05/3.webp",
+    "img/bag-3ec59f05/4.webp"
+   ],
+   "packshotIndex": 0
+  },
+  {
+   "id": "bag-eb770ed0",
+   "category": "bags",
+   "brand": "Mansur Gavriel",
+   "name": "Gaia Shoulder Bag - Olive Plush Velvet",
+   "type": "Gaia Shoulder Bag",
+   "price": 475.0,
+   "mrp": null,
+   "currency": "USD",
+   "priceUSD": 475.0,
+   "options": {
+    "label": null,
+    "values": []
+   },
+   "description": {
+    "paragraphs": [
+     "Crafted from limited-edition plush velvet, this sleek, shoulder bag silhouette brings a touch of seasonal texture to any look. A slender strap and zip closure keep your essentials close, whether you’re dressing up or adding a little something special to your everyday style. Pair it with the matching Dream Ballerina for a coordinated moment."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "!full-price",
+    "!fullprice",
+    "!season:FW26",
+    "drop4_bfcm26",
+    "drop4_under300_bfcm26",
+    "drop4_under500_bfcm26"
+   ],
+   "store": "Mansur Gavriel",
+   "storeDomain": "mansurgavriel.com",
+   "url": "https://www.mansurgavriel.com/products/gaia-shoulder-bag-olive",
+   "cut": "img/bag-eb770ed0/cut.webp",
+   "cutAspect": 0.705,
+   "images": [
+    "img/bag-eb770ed0/1.webp",
+    "img/bag-eb770ed0/2.webp",
+    "img/bag-eb770ed0/3.webp",
+    "img/bag-eb770ed0/4.webp"
+   ],
+   "packshotIndex": 0
+  },
+  {
+   "id": "bag-f26c8c6c",
+   "category": "bags",
+   "brand": "Polène",
+   "name": "Numéro Neuf East West - Clairière Grainé",
+   "type": "Handbags",
+   "price": 440.0,
+   "mrp": null,
+   "currency": "EUR",
+   "priceUSD": 475.2,
+   "options": {
+    "label": null,
+    "values": []
+   },
+   "description": {
+    "paragraphs": [
+     "Étiré et allongé, le Numéro Neuf East-West redessine la silhouette du sac Numéro Neuf. Avec son porté à l'épaule, il affirme une allure graphique. La fermeture zippée accentue son caractère contemporain. Son nom s'inspire du prolongement naturel du modèle, telle une ligne fluide tracée d’est en ouest."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "All",
+    "color_beige",
+    "family_numero-neuf-baguette",
+    "material_cuir-grainé",
+    "new",
+    "NumeroNeuf"
+   ],
+   "store": "Polène",
+   "storeDomain": "polene-paris.com",
+   "url": "https://www.polene-paris.com/products/numero-neuf-east-west-textured-glade",
+   "cut": "img/bag-f26c8c6c/cut.webp",
+   "cutAspect": 0.9133,
+   "images": [
+    "img/bag-f26c8c6c/1.webp",
+    "img/bag-f26c8c6c/2.webp",
+    "img/bag-f26c8c6c/3.webp",
+    "img/bag-f26c8c6c/4.webp"
+   ],
+   "packshotIndex": 0
+  },
+  {
+   "id": "bag-2f4d948a",
+   "category": "bags",
+   "brand": "Cuyana",
+   "name": "Nova Bag",
+   "type": "Bags",
+   "price": 498.0,
+   "mrp": null,
+   "currency": "USD",
+   "priceUSD": 498.0,
+   "options": {
+    "label": "Size",
+    "values": [
+     {
+      "label": "One Size",
+      "available": true
+     }
+    ]
+   },
+   "description": {
+    "paragraphs": [
+     "A sophisticated, streamlined bag for soirées and off-duty outings alike. It's a versatile piece with two ways to wear it: by the handle or with the included strap for a hands-free option."
+    ],
+    "bullets": []
+   },
+   "tags": [],
+   "store": "Cuyana",
+   "storeDomain": "cuyana.com",
+   "url": "https://www.cuyana.com/products/nova-bag",
+   "cut": "img/bag-2f4d948a/cut.webp",
+   "cutAspect": 1.264,
+   "images": [
+    "img/bag-2f4d948a/1.webp",
+    "img/bag-2f4d948a/2.webp",
+    "img/bag-2f4d948a/3.webp",
+    "img/bag-2f4d948a/4.webp"
+   ],
+   "packshotIndex": 0
+  },
+  {
+   "id": "bag-03544b4a",
+   "category": "bags",
+   "brand": "Mansur Gavriel",
+   "name": "Mini Candy Bag - Crinkled Gold",
+   "type": "Mini Candy Bag",
+   "price": 405.0,
+   "mrp": 575.0,
+   "currency": "USD",
+   "priceUSD": 405.0,
+   "options": {
+    "label": null,
+    "values": []
+   },
+   "description": {
+    "paragraphs": [
+     "Our Mini Candy Bag is defined by its graphic silhouette and compact size, designed to hold just the essentials. Thoughtfully crafted, it can be worn over the arm or carried by hand for effortless, everyday ease."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "!bag:small",
+    "!season:FW26",
+    "bag",
+    "color",
+    "colors",
+    "drop1_bfcm26"
+   ],
+   "store": "Mansur Gavriel",
+   "storeDomain": "mansurgavriel.com",
+   "url": "https://www.mansurgavriel.com/products/mini-candy-bag-gold",
+   "cut": "img/bag-03544b4a/cut.webp",
+   "cutAspect": 0.9046,
+   "images": [
+    "img/bag-03544b4a/1.webp",
+    "img/bag-03544b4a/2.webp",
+    "img/bag-03544b4a/3.webp",
+    "img/bag-03544b4a/4.webp"
+   ],
+   "packshotIndex": 0
+  },
+  {
+   "id": "bag-519756ea",
+   "category": "bags",
+   "brand": "Polène",
+   "name": "Numéro Dix - Marron Glacé Grainé",
+   "type": "Handbags",
+   "price": 450.0,
+   "mrp": null,
+   "currency": "EUR",
+   "priceUSD": 486.0,
+   "options": {
+    "label": null,
+    "values": []
+   },
+   "description": {
+    "paragraphs": [
+     "Avec sa forme bombée, son garnissage avec mousse et ses points cousus à la main, le \"Numéro Dix\" s’inspire des codes équestres de la sellerie. Son design demi-lune joue sur la juxtaposition de courbes."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "All",
+    "color_marron",
+    "family_numero-dix",
+    "LABEL:OOS",
+    "material_cuir-grainé",
+    "size_moyens-sacs"
+   ],
+   "store": "Polène",
+   "storeDomain": "polene-paris.com",
+   "url": "https://www.polene-paris.com/products/numero-dix-textured-candied-chestnut",
+   "cut": "img/bag-519756ea/cut.webp",
+   "cutAspect": 0.5633,
+   "images": [
+    "img/bag-519756ea/1.webp",
+    "img/bag-519756ea/2.webp",
+    "img/bag-519756ea/3.webp",
+    "img/bag-519756ea/4.webp"
+   ],
+   "packshotIndex": 0
+  },
+  {
+   "id": "bag-ebe840c6",
+   "category": "bags",
+   "brand": "Cuyana",
+   "name": "Oversized Bow Bag (Suede)",
+   "type": "Bags",
+   "price": 558.0,
+   "mrp": null,
+   "currency": "USD",
+   "priceUSD": 558.0,
+   "options": {
+    "label": "Size",
+    "values": [
+     {
+      "label": "One Size",
+      "available": true
+     }
+    ]
+   },
+   "description": {
+    "paragraphs": [
+     "An icon reinvented. We redesigned our beloved Bow Bag into a modern, oversized shoulder bag for daily wear. Ultra-feminine with a soft profile, it’s one to keep in rotation for the holiday season and beyond."
+    ],
+    "bullets": []
+   },
+   "tags": [],
+   "store": "Cuyana",
+   "storeDomain": "cuyana.com",
+   "url": "https://www.cuyana.com/products/oversized-bow-bag-suede",
+   "cut": "img/bag-ebe840c6/cut.webp",
+   "cutAspect": 0.6667,
+   "images": [
+    "img/bag-ebe840c6/1.webp",
+    "img/bag-ebe840c6/2.webp",
+    "img/bag-ebe840c6/3.webp",
+    "img/bag-ebe840c6/4.webp"
+   ],
+   "packshotIndex": 0
+  },
+  {
+   "id": "bag-2baf031a",
+   "category": "bags",
+   "brand": "Mansur Gavriel",
+   "name": "Mini Cloud Clutch - Chocolate",
+   "type": "Mini Cloud Clutch",
+   "price": 645.0,
+   "mrp": null,
+   "currency": "USD",
+   "priceUSD": 645.0,
+   "options": {
+    "label": null,
+    "values": []
+   },
+   "description": {
+    "paragraphs": [
+     "A Mansur Gavriel signature. Our smaller, sculptural clutch is handcrafted with supple Italian lambskin leather on an elegantly curved frame with a magnetic closure. The dreamy bag is perfectly sized to carry in hand or can be styled with the removable crossbody strap."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "!full-price",
+    "!fullprice",
+    "!season:FW26",
+    "bag",
+    "bestseller",
+    "Chocolate"
+   ],
+   "store": "Mansur Gavriel",
+   "storeDomain": "mansurgavriel.com",
+   "url": "https://www.mansurgavriel.com/products/mini-cloud-clutch-chocolate",
+   "cut": "img/bag-2baf031a/cut.webp",
+   "cutAspect": 2.2222,
+   "images": [
+    "img/bag-2baf031a/1.webp",
+    "img/bag-2baf031a/2.webp",
+    "img/bag-2baf031a/3.webp",
+    "img/bag-2baf031a/4.webp"
+   ],
+   "packshotIndex": 0
+  },
+  {
+   "id": "bag-cebb4ebc",
+   "category": "bags",
+   "brand": "Polène",
+   "name": "Boky - Cerise Noire Grainé",
+   "type": "Handbags",
+   "price": 640.0,
+   "mrp": null,
+   "currency": "EUR",
+   "priceUSD": 691.2,
+   "options": {
+    "label": null,
+    "values": []
+   },
+   "description": {
+    "paragraphs": [
+     "Polène dévoile Boky, dont le dessin s’inspire de l’univers du livre. Le modèle est pensé comme un assemblage de pochettes et les plis évoquent les pages, tandis que les points de couture font écho au savoir-faire de la reliure. Le pli torsadé central devient sa signature, comme une page délicatement repliée. Son nom est alors une réinterprétation du mot anglais « book » (livre)."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "All",
+    "color_rouge",
+    "family_boky",
+    "material_cuir-grainé",
+    "type_sacs",
+    "Women"
+   ],
+   "store": "Polène",
+   "storeDomain": "polene-paris.com",
+   "url": "https://www.polene-paris.com/products/boky-textured-black-cherry",
+   "cut": "img/bag-cebb4ebc/cut.webp",
+   "cutAspect": 0.5989,
+   "images": [
+    "img/bag-cebb4ebc/1.webp",
+    "img/bag-cebb4ebc/2.webp",
+    "img/bag-cebb4ebc/3.webp",
+    "img/bag-cebb4ebc/4.webp"
+   ],
+   "packshotIndex": 0
+  },
+  {
+   "id": "bag-1b628fec",
+   "category": "bags",
+   "brand": "Cuyana",
+   "name": "Barela Shoulder Bag",
+   "type": "Bags",
+   "price": 498.0,
+   "mrp": null,
+   "currency": "USD",
+   "priceUSD": 498.0,
+   "options": {
+    "label": "Size",
+    "values": [
+     {
+      "label": "One Size",
+      "available": true
+     }
+    ]
+   },
+   "description": {
+    "paragraphs": [
+     "Designed with a timeless take on the east-west silhouette in buttery soft, luxurious lambskin leather, the Barela Shoulder Bag is always the right choice for day-to-night styling."
+    ],
+    "bullets": []
+   },
+   "tags": [],
+   "store": "Cuyana",
+   "storeDomain": "cuyana.com",
+   "url": "https://www.cuyana.com/products/barela-shoulder-bag",
+   "cut": "img/bag-1b628fec/cut.webp",
+   "cutAspect": 0.6456,
+   "images": [
+    "img/bag-1b628fec/1.webp",
+    "img/bag-1b628fec/2.webp",
+    "img/bag-1b628fec/3.webp",
+    "img/bag-1b628fec/4.webp"
+   ],
+   "packshotIndex": 0
+  },
+  {
+   "id": "bag-2ce46159",
+   "category": "bags",
+   "brand": "Mansur Gavriel",
+   "name": "Carryall Tote - Anise Suede",
+   "type": "Carryall Tote",
+   "price": 795.0,
+   "mrp": null,
+   "currency": "USD",
+   "priceUSD": 795.0,
+   "options": {
+    "label": null,
+    "values": []
+   },
+   "description": {
+    "paragraphs": [
+     "Our Carryall Tote is a soft, slouchy oversized bag designed to rest comfortably on your shoulder and move with you. Featuring a spacious interior that fits a 16” MacBook Pro, it’s perfect for busy days, overnight getaways, and everything in between."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "!full-price",
+    "!fullprice",
+    "!season:SS26",
+    "ANISE",
+    "bag",
+    "Carryall Tote"
+   ],
+   "store": "Mansur Gavriel",
+   "storeDomain": "mansurgavriel.com",
+   "url": "https://www.mansurgavriel.com/products/carryall-tote-anise",
+   "cut": "img/bag-2ce46159/cut.webp",
+   "cutAspect": 0.9778,
+   "images": [
+    "img/bag-2ce46159/1.webp",
+    "img/bag-2ce46159/2.webp",
+    "img/bag-2ce46159/3.webp",
+    "img/bag-2ce46159/4.webp"
+   ],
+   "packshotIndex": 0
+  },
+  {
+   "id": "bag-5c31fc01",
+   "category": "bags",
+   "brand": "Polène",
+   "name": "Nodde Hobo - Racine Lisse",
+   "type": "Handbags",
+   "price": 490.0,
+   "mrp": null,
+   "currency": "EUR",
+   "priceUSD": 529.2,
+   "options": {
+    "label": null,
+    "values": []
+   },
+   "description": {
+    "paragraphs": [
+     "Le \"Nodde hobo\", dont le nom fait écho au mot \"nœud\" en français, est composé de deux modules de cuir entrelacés, créant une symétrie parfaite. Son design biseauté souligne le dynamisme de ses lignes et met en valeur son fond mis en forme par un montage à l'allemande."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "All",
+    "color_marron",
+    "family_nodde-hobo",
+    "material_cuir-lisse",
+    "Nodde-hobo",
+    "size_sacs-taille-moyenne"
+   ],
+   "store": "Polène",
+   "storeDomain": "polene-paris.com",
+   "url": "https://www.polene-paris.com/products/nodde-hobo-smooth-root",
+   "cut": "img/bag-5c31fc01/cut.webp",
+   "cutAspect": 0.5889,
+   "images": [
+    "img/bag-5c31fc01/1.webp",
+    "img/bag-5c31fc01/2.webp",
+    "img/bag-5c31fc01/3.webp",
+    "img/bag-5c31fc01/4.webp"
+   ],
+   "packshotIndex": 0
+  },
+  {
+   "id": "bag-fb9d1418",
+   "category": "bags",
+   "brand": "Mansur Gavriel",
+   "name": "Pina Evening Bag - Plum Ponyhair",
+   "type": "Pina Evening Bag",
+   "price": 995.0,
+   "mrp": null,
+   "currency": "USD",
+   "priceUSD": 995.0,
+   "options": {
+    "label": null,
+    "values": []
+   },
+   "description": {
+    "paragraphs": [
+     "Our Pina evening bag reinterprets vintage evening silhouettes through a modern lens, featuring a custom golden metal frame and handle. Available in two shades — a textural plum ponyhair and a timeless black Italian leather."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "!!!new-bag",
+    "!!bag",
+    "!!new-bags",
+    "!full-price",
+    "!fullprice",
+    "!season:FW26"
+   ],
+   "store": "Mansur Gavriel",
+   "storeDomain": "mansurgavriel.com",
+   "url": "https://www.mansurgavriel.com/products/pina-evening-bag-plum",
+   "cut": "img/bag-fb9d1418/cut.webp",
+   "cutAspect": 1.0721,
+   "images": [
+    "img/bag-fb9d1418/1.webp",
+    "img/bag-fb9d1418/2.webp",
+    "img/bag-fb9d1418/3.webp",
+    "img/bag-fb9d1418/4.webp"
+   ],
+   "packshotIndex": 0
+  },
+  {
+   "id": "bag-dbee44f2",
+   "category": "bags",
+   "brand": "Polène",
+   "name": "Cyme - Brume Feutrée",
+   "type": "Handbags",
+   "price": 540.0,
+   "mrp": null,
+   "currency": "EUR",
+   "priceUSD": 583.2,
+   "options": {
+    "label": null,
+    "values": []
+   },
+   "description": {
+    "paragraphs": [
+     "L'Édition Feutrée joue avec l'art de la superposition et du ton sur ton. Confectionnés selon la méthode dite \"fully fashioned\", les panneaux de laine sont créés à la forme exacte du Cyme. La matière révèle une texture douce et dense qui contraste avec le caractère du cuir."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "All",
+    "color_ecru",
+    "family_cyme",
+    "LABEL:NEW",
+    "material_laine",
+    "size_grands-sacs"
+   ],
+   "store": "Polène",
+   "storeDomain": "polene-paris.com",
+   "url": "https://www.polene-paris.com/products/cyme-felted-mist",
+   "cut": "img/bag-dbee44f2/cut.webp",
+   "cutAspect": 1.3678,
+   "images": [
+    "img/bag-dbee44f2/1.webp",
+    "img/bag-dbee44f2/2.webp",
+    "img/bag-dbee44f2/3.webp",
+    "img/bag-dbee44f2/4.webp"
+   ],
+   "packshotIndex": 0
+  },
+  {
+   "id": "bag-0c906d7d",
+   "category": "bags",
+   "brand": "Cuyana",
+   "name": "Forma Top Handle Bag",
+   "type": "Bags",
+   "price": 598.0,
+   "mrp": null,
+   "currency": "USD",
+   "priceUSD": 598.0,
+   "options": {
+    "label": "Size",
+    "values": [
+     {
+      "label": "One Size",
+      "available": true
+     }
+    ]
+   },
+   "description": {
+    "paragraphs": [
+     "A compact design of our bestselling Forma Bowler Bag, the Forma Top Handle features a softly-structured silhouette that strikes the ideal balance of modern and timeless. Deceptively spacious and with more than one way to carry it, the bag elevates your everyday carry, offering just the right touch of nonchalant elegance."
+    ],
+    "bullets": []
+   },
+   "tags": [],
+   "store": "Cuyana",
+   "storeDomain": "cuyana.com",
+   "url": "https://www.cuyana.com/products/forma-top-handle-bag",
+   "cut": "img/bag-0c906d7d/cut.webp",
+   "cutAspect": 1.0321,
+   "images": [
+    "img/bag-0c906d7d/1.webp",
+    "img/bag-0c906d7d/2.webp",
+    "img/bag-0c906d7d/3.webp",
+    "img/bag-0c906d7d/4.webp"
+   ],
+   "packshotIndex": 0
+  },
+  {
+   "id": "wat-e40d724a",
+   "category": "watches",
+   "brand": "Audemars Piguet",
+   "name": "Royal Oak 'Yves Klein'",
+   "type": "Watch",
+   "price": 89850.0,
+   "mrp": 95000.0,
+   "currency": "USD",
+   "priceUSD": 89850.0,
+   "options": {
+    "label": null,
+    "values": []
+   },
+   "description": {
+    "paragraphs": [
+     "A product of the 1970s, a decade brimming with imaginative creativity across all facets of design, the Audemars Piguet Royal Oak pioneered a new category — the ‘luxury sport’ watch.",
+     "Legend has it that the entire Royal Oak design was sketched by Gérald Genta in a single day! Initially launched in stainless steel in 1972, the RO went on to inspire countless other manufactures and remains relevant to this very day. What's particularly delightful about the design of the Royal Oak is that it works brilliantly in a number of sizes and casing materials, from steel to carbon fiber or solid gold.",
+     "This example, a Reference 14790ST, features a lovely steel construction with its signature octagonal-shaped case, correct unsigned steel crown, sapphire crystal and comes fitted to the classic integrated, multi-link bracelet equipped with a signed locking deployant clasp."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "neo-vintage",
+    "specialpricing"
+   ],
+   "store": "Analog:Shift",
+   "storeDomain": "analogshift.com",
+   "url": "https://www.analogshift.com/products/audemars-piguet-royal-oak-yves-klein-as12699",
+   "cut": "img/wat-e40d724a/cut.webp",
+   "cutAspect": 0.5689,
+   "images": [
+    "img/wat-e40d724a/1.webp",
+    "img/wat-e40d724a/2.webp",
+    "img/wat-e40d724a/3.webp",
+    "img/wat-e40d724a/4.webp"
+   ],
+   "packshotIndex": 1
+  },
+  {
+   "id": "wat-8e8ff854",
+   "category": "watches",
+   "brand": "Vacheron Constantin",
+   "name": "Overseas Self-Winding",
+   "type": "Watches",
+   "price": 59500.0,
+   "mrp": null,
+   "currency": "USD",
+   "priceUSD": 59500.0,
+   "options": {
+    "label": null,
+    "values": []
+   },
+   "description": {
+    "paragraphs": [
+     "Elegant and relaxed, this 18K 5N pink gold watch is distinguished by its bezel, which recalls the Maltese cross. Its openworked caseback reveals an oscillating weight in 22K 3N yellow gold featuring decoration inspired by the wind rose, a tribute to the spirit of travel. Thanks to its pin buckle and three straps – 18K 5N pink gold, leather, and rubber – equipped with a self-interchangeable system, the watch can be personalized according to the owner’s wishes."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "br-non-sellable",
+    "Classic",
+    "New Arrival",
+    "tangiblee_eligible",
+    "Yblocklist"
+   ],
+   "store": "Watches of Switzerland",
+   "storeDomain": "watchesofswitzerland.com",
+   "url": "https://www.watchesofswitzerland.com/products/vacheron-constantin-overseas-4600v-200r-h134-17510469",
+   "cut": "img/wat-8e8ff854/cut.webp",
+   "cutAspect": 0.5444,
+   "images": [
+    "img/wat-8e8ff854/1.webp"
+   ],
+   "packshotIndex": 0
+  },
+  {
+   "id": "wat-8c701f50",
+   "category": "watches",
+   "brand": "Casio G-Shock",
+   "name": "GM-2110D-2A Quartz G Steel Steel / Resin Silver",
+   "type": "Watches",
+   "price": 330.0,
+   "mrp": null,
+   "currency": "USD",
+   "priceUSD": 330.0,
+   "options": {
+    "label": null,
+    "values": []
+   },
+   "description": {
+    "paragraphs": [
+     "From G-SHOCK, the GM2110 metal ana log-digital inherits the octagonal shape from the first-generation DW-5000C model. A stainless steel bezel over a glass-fiber reinforced resin case developed with a simple design eliminates waste while maintaining a tough structure. 200-meter water resistance, daily alarms, stopwatch, and world time."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "ecom best seller",
+    "Hypotenuse Test"
+   ],
+   "store": "Watches of Switzerland",
+   "storeDomain": "watchesofswitzerland.com",
+   "url": "https://www.watchesofswitzerland.com/products/g-shock-g-steel-gm-2110d-2acr-17051064",
+   "cut": "img/wat-8c701f50/cut.webp",
+   "cutAspect": 0.62,
+   "images": [
+    "img/wat-8c701f50/1.webp",
+    "img/wat-8c701f50/2.webp",
+    "img/wat-8c701f50/3.webp"
+   ],
+   "packshotIndex": 0
+  },
+  {
+   "id": "wat-272ab85b",
+   "category": "watches",
+   "brand": "Omega",
+   "name": "Seamaster Aqua Terra 150M",
+   "type": "Watches",
+   "price": 7400.0,
+   "mrp": null,
+   "currency": "USD",
+   "priceUSD": 7400.0,
+   "options": {
+    "label": null,
+    "values": []
+   },
+   "description": {
+    "paragraphs": [
+     "The Seamaster Aqua Terra is a superb tribute to OMEGA’s rich maritime heritage. In this 38 mm model, the symmetrical case has been crafted from stainless steel, with a wave-edged design featured on the back.",
+     "The sun-brushed blue dial is distinguished by ahorizontal “teak” pattern which is inspired by the wooden decks of luxury sailboats. There is also a date window at 6 o'clock and rhodium-plated hands and indexes filled with white Super-LumiNova.",
+     "Presented on an integrated bracelet with polished central links and brushed external links, this timepiece is powered by the OMEGA Co-Axial Master Chronometer calibre 8800, certified at the industry’s highest standard by the Swiss Federal Institute of Metrology (METAS)."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "New Arrival",
+    "YBlocklist"
+   ],
+   "store": "Watches of Switzerland",
+   "storeDomain": "watchesofswitzerland.com",
+   "url": "https://www.watchesofswitzerland.com/products/omega-seamaster-o22010382003006-17332496",
+   "cut": "img/wat-272ab85b/cut.webp",
+   "cutAspect": 0.6044,
+   "images": [
+    "img/wat-272ab85b/1.webp",
+    "img/wat-272ab85b/2.webp",
+    "img/wat-272ab85b/3.webp",
+    "img/wat-272ab85b/4.webp"
+   ],
+   "packshotIndex": 0
+  },
+  {
+   "id": "wat-a5390599",
+   "category": "watches",
+   "brand": "Patek Philippe",
+   "name": "Calatrava",
+   "type": "Watches",
+   "price": 39850.0,
+   "mrp": null,
+   "currency": "USD",
+   "priceUSD": 39850.0,
+   "options": {
+    "label": null,
+    "values": []
+   },
+   "description": {
+    "paragraphs": [
+     "Overall Condition: Excellent condition throughout.",
+     "First presented in 1932 with the Reference 96, the Patek Philippe Calatrava is the benchmark for classic men’s dress watches. The groundbreaking reference set the stage for nearly every piece Patek has released since, and became the blueprint for other brands’ approaches to classy men’s timepieces. Heavily influenced by the Bauhaus design philosophy, the Calatrava was then considered extremely modern with its minimalist, ‘less is more’ approach to watch design.",
+     "Over the years, the dressy Calatrava has evolved, but the look remains unmistakable and iconic, and its rich history provides the vintage and pre-owned enthusiast with a variety of choices in metals, sizes, and tiny details to obsess over."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "A:S August Import",
+    "New Arrival"
+   ],
+   "store": "Watches of Switzerland",
+   "storeDomain": "watchesofswitzerland.com",
+   "url": "https://www.watchesofswitzerland.com/products/patek-philippe-calatrava-as11493",
+   "cut": "img/wat-a5390599/cut.webp",
+   "cutAspect": 0.5033,
+   "images": [
+    "img/wat-a5390599/1.webp",
+    "img/wat-a5390599/2.webp",
+    "img/wat-a5390599/3.webp",
+    "img/wat-a5390599/4.webp"
+   ],
+   "packshotIndex": 0
+  },
+  {
+   "id": "wat-90042513",
+   "category": "watches",
+   "brand": "Cartier",
+   "name": "Tank Louis Cartier Medium Model",
+   "type": "Watches",
+   "price": 16000.0,
+   "mrp": null,
+   "currency": "USD",
+   "priceUSD": 16000.0,
+   "options": {
+    "label": null,
+    "values": []
+   },
+   "description": {
+    "paragraphs": [
+     "Designed by Louis Cartier in 1917, the Tank watch is an icon of modern watchmaking. The sleek design of this wristwatch, combining geometry with accurate proportions, defines its bold identity. Immediately recognizable and always in tune with the times, the Tank has been reinterpreted for over a century in a host of variations that remain faithful to the spirit of the original design: TankCintrée, Tank Chinoise, Tank Américaine, Tank Française...",
+     "Tank Louis Cartier watch, medium model, Manufacture mechanical movement with manual winding, caliber 1917 MC. 18K yellow gold (750/1000) case. Dimensions: 33.7 x 25.5 mm, thickness: 6.6 mm. Golden dial with sunray-effect. 18K yellow gold (750/1000) beaded crown set with a sapphire cabochon. Sword-shaped hands in golden-finished steel. Semi-matte black alligator leather strap. Water-resistant up to 3 bar (approx. 30 meters/100 feet)."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "Cartier Fix",
+    "Classic",
+    "YBlocklist"
+   ],
+   "store": "Watches of Switzerland",
+   "storeDomain": "watchesofswitzerland.com",
+   "url": "https://www.watchesofswitzerland.com/products/cartier-tank-louis-cartier-wgta0211-17311723",
+   "cut": "img/wat-90042513/cut.webp",
+   "cutAspect": 0.4844,
+   "images": [
+    "img/wat-90042513/1.webp",
+    "img/wat-90042513/2.webp",
+    "img/wat-90042513/3.webp",
+    "img/wat-90042513/4.webp"
+   ],
+   "packshotIndex": 0
+  },
+  {
+   "id": "wat-b0d09561",
+   "category": "watches",
+   "brand": "Grand Seiko",
+   "name": "Heritage Quartz Snowflake",
+   "type": "Watches",
+   "price": 4100.0,
+   "mrp": null,
+   "currency": "USD",
+   "priceUSD": 4100.0,
+   "options": {
+    "label": null,
+    "values": []
+   },
+   "description": {
+    "paragraphs": [
+     "The dial pattern of the SBGX357 conjures images of wind-swept snow reflecting the blue sky on a clear, crisp day. This unique appearance is achieved when a light blue color is applied to the delicately textured dial. Below the dial is Grand Seiko’s quartz caliber 9F62, which is renowned for its high accuracy and robust, dust-proof construction, among its many features. The 37mm case and the bracelet are formed from High-Intensity Titanium, a material 30% lighter than stainless steel with superior resistance to corrosion and wear."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "High Performer",
+    "tangiblee_eligible",
+    "Yblocklist"
+   ],
+   "store": "Watches of Switzerland",
+   "storeDomain": "watchesofswitzerland.com",
+   "url": "https://www.watchesofswitzerland.com/products/grand-seiko-heritage-sbgx357-18400590",
+   "cut": "img/wat-b0d09561/cut.webp",
+   "cutAspect": 0.5544,
+   "images": [
+    "img/wat-b0d09561/1.webp"
+   ],
+   "packshotIndex": 0
+  },
+  {
+   "id": "wat-4c27b22a",
+   "category": "watches",
+   "brand": "Vacheron Constantin",
+   "name": "Patrimony Manual-Winding",
+   "type": "Watches",
+   "price": 28900.0,
+   "mrp": null,
+   "currency": "USD",
+   "priceUSD": 28900.0,
+   "options": {
+    "label": null,
+    "values": []
+   },
+   "description": {
+    "paragraphs": [
+     "The purity of style and the quest for essentials of this 18K white gold watch makes it a timeless design. Inspired by the designs of the 1950s, the hour markers and hands gently follow the curve of the dial. The new fresh olive green color strap gives the watch a resolutely contemporary twist. Its slim case, 7.7 millimeters thick, has a solid back allowing the watch to be personalized with the owner's choice of engraving."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "br-non-sellable",
+    "Dress",
+    "New Arrival",
+    "tangiblee_eligible",
+    "Yblocklist",
+    "zero inventory investigation"
+   ],
+   "store": "Watches of Switzerland",
+   "storeDomain": "watchesofswitzerland.com",
+   "url": "https://www.watchesofswitzerland.com/products/vacheron-constantin-patrimony-1410u-000g-h017-17510433",
+   "cut": "img/wat-4c27b22a/cut.webp",
+   "cutAspect": 0.58,
+   "images": [
+    "img/wat-4c27b22a/1.webp"
+   ],
+   "packshotIndex": 0
+  },
+  {
+   "id": "wat-3b033b45",
+   "category": "watches",
+   "brand": "Casio G-Shock",
+   "name": "GMW-B5000D-1C Solar Premium Metal Steel Silver",
+   "type": "Watches",
+   "price": 600.0,
+   "mrp": null,
+   "currency": "USD",
+   "priceUSD": 600.0,
+   "options": {
+    "label": null,
+    "values": []
+   },
+   "description": {
+    "paragraphs": [
+     "The G-SHOCK 5000 is inspired by the first G-SHOCK model, DW5000C. This upgraded original boasts a modern, lustrous, color way while maintaining a vintage aesthetic. Incorporating a super illuminator LED light and solar battery – rendering it capable of self-charging, as well as a special STN LCD. In addition, the timepiece has an upgraded, stylish, full stainless steel housing and DLC (diamond-like carbon) treated screw-back case. Two-way time sync is made possible via Bluetooth Connectivity and the G-SHOCK app, as well as G-SHOCK’s Multi-Band 6 Atomic Timekeeping technology, which provides accurate timekeeping virtually anywhere via radio signals from up to six different transmitters worldwide."
+    ],
+    "bullets": []
+   },
+   "tags": [],
+   "store": "Watches of Switzerland",
+   "storeDomain": "watchesofswitzerland.com",
+   "url": "https://www.watchesofswitzerland.com/products/g-shock-full-metal-gmw-b5000d-1ccr-17051046",
+   "cut": "img/wat-3b033b45/cut.webp",
+   "cutAspect": 0.6522,
+   "images": [
+    "img/wat-3b033b45/1.webp",
+    "img/wat-3b033b45/2.webp",
+    "img/wat-3b033b45/3.webp"
+   ],
+   "packshotIndex": 0
+  },
+  {
+   "id": "wat-64555d0b",
+   "category": "watches",
+   "brand": "Jaeger-LeCoultre",
+   "name": "Reverso Tribute Monoface",
+   "type": "Watches",
+   "price": 9900.0,
+   "mrp": null,
+   "currency": "USD",
+   "priceUSD": 9900.0,
+   "options": {
+    "label": null,
+    "values": []
+   },
+   "description": {
+    "paragraphs": [
+     "The Reverso Tribute Monoface is reminiscent of the first 1931 models, both in terms of aesthetics and proportions. The dimensions of its case – 40.1 x 24.4 mm – make it very comfortable to wear every day. Beneath its opaline silver-gray dial lies a customizable reverse. Equipped with the hand-wound Jaeger-LeCoultre Caliber 822, the Reverso Monoface promises 42 hours of power reserve. Based on a Fagliano design, emblematic of the Reverso, the interchangeable strap with folding clasp features a double finish: the flap in smooth calfskin, the short strand and the long sprig in grained calfskin known as Saffiano. A timeless model fitting all wrists."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "br-non-sellable",
+    "Classic",
+    "New JLC",
+    "tangiblee_eligible",
+    "Yblocklist"
+   ],
+   "store": "Watches of Switzerland",
+   "storeDomain": "watchesofswitzerland.com",
+   "url": "https://www.watchesofswitzerland.com/products/jaeger-lecoultre-reverso-q7168420-17631531",
+   "cut": "img/wat-64555d0b/cut.webp",
+   "cutAspect": 0.4089,
+   "images": [
+    "img/wat-64555d0b/1.webp"
+   ],
+   "packshotIndex": 0
+  },
+  {
+   "id": "wat-458940b9",
+   "category": "watches",
+   "brand": "Audemars Piguet",
+   "name": "Royal Oak 'Salmon'",
+   "type": "Watch",
+   "price": 164850.0,
+   "mrp": 169500.0,
+   "currency": "USD",
+   "priceUSD": 164850.0,
+   "options": {
+    "label": null,
+    "values": []
+   },
+   "description": {
+    "paragraphs": [
+     "Few watches have altered the course of modern watch design quite like the Audemars Piguet Royal Oak. Gérald Genta’s 1972 masterpiece effectively invented the luxury sports watch, turning exposed screws, an octagonal bezel, and an integrated bracelet into one of horology’s most enduring design languages. And among modern Royal Oaks, few are quite as seductive, or elusive, as this one.",
+     "Introduced in 2019, the Reference 15202BC.OO.1240BC.01 was a boutique-exclusive edition of just 75 pieces, pairing the classic 39mm “Jumbo” proportions with an unexpectedly luxurious case and bracelet rendered entirely in 18K white gold. The familiar combination of satin-brushed surfaces and razor-sharp polished bevels takes on an entirely different character in precious metal: visually stealthy, but with a satisfying weight on the wrist."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "Pre-owned",
+    "specialpricing"
+   ],
+   "store": "Analog:Shift",
+   "storeDomain": "analogshift.com",
+   "url": "https://www.analogshift.com/products/audemars-piguet-royal-oak-salmon-as12739",
+   "cut": "img/wat-458940b9/cut.webp",
+   "cutAspect": 0.5556,
+   "images": [
+    "img/wat-458940b9/1.webp",
+    "img/wat-458940b9/2.webp",
+    "img/wat-458940b9/3.webp",
+    "img/wat-458940b9/4.webp"
+   ],
+   "packshotIndex": 1
+  },
+  {
+   "id": "wat-cd2479ee",
+   "category": "watches",
+   "brand": "Omega",
+   "name": "Speedmaster 38 Silver",
+   "type": "Watches",
+   "price": 6700.0,
+   "mrp": null,
+   "currency": "USD",
+   "priceUSD": 6700.0,
+   "options": {
+    "label": null,
+    "values": []
+   },
+   "description": {
+    "paragraphs": [
+     "The Speedmaster 38 mm collection has been crafted with simplicity, size and colour in mind, yet still retains the look and heritage of OMEGA’s most famous chronograph.",
+     "The opaline silvery PVD-coated dial includes rounded subdials and a trapezoidal date window at 6 o’clock. The indexes and the hour and minute hands are diamond-polished Sedna™ Gold PVD coated, as is the small seconds hand at 9 o’clock, while the chronograph seconds and the subdial hands at 3 and 6 o’clock are varnished in warm grey, with white Super-LumiNova on the hour, minute and chronograph seconds hands.",
+     "A polished bezel with a warm grey aluminium ring featuring the “Dot Over Ninety” frames the dial on a polished-brushed stainless steel case."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "Chronograph",
+    "New Release",
+    "YBlocklist"
+   ],
+   "store": "Watches of Switzerland",
+   "storeDomain": "watchesofswitzerland.com",
+   "url": "https://www.watchesofswitzerland.com/products/omega-speedmaster-o32430385002003-17332509",
+   "cut": "img/wat-cd2479ee/cut.webp",
+   "cutAspect": 0.5744,
+   "images": [
+    "img/wat-cd2479ee/1.webp",
+    "img/wat-cd2479ee/2.webp",
+    "img/wat-cd2479ee/3.webp",
+    "img/wat-cd2479ee/4.webp"
+   ],
+   "packshotIndex": 0
+  },
+  {
+   "id": "wat-247fb57a",
+   "category": "watches",
+   "brand": "Cartier",
+   "name": "Santos de Cartier Large Model",
+   "type": "Watches",
+   "price": 14700.0,
+   "mrp": null,
+   "currency": "USD",
+   "priceUSD": 14700.0,
+   "options": {
+    "label": null,
+    "values": []
+   },
+   "description": {
+    "paragraphs": [
+     "1904, Louis Cartier granted the wish of the famous Brazilian aviator Alberto Santos Dumont: to be able to tell time while flying.The birth of one of the first ever wristwatches sealed the bonds of friendship between these two pioneers. The rounded angles of the dial, the seamless curve of the horns, and the exposed screws made for an iconic watch that would inspire countless reinterpretations.",
+     "Santos watch, large model, Manufacture chronograph mechanical movement with automatic winding, caliber 1904-CH MC. Steelcase, 7-sided crown set with a synthetic faceted spinel, alternating satin- and sunray-finish dial, black steel sword-shaped hands with Super-LumiNova®, sapphire crystal. Steel bracelet with SmartLink™ adjustment system. Second strap in black rubber with steel interchangeable deployant buckle. Both straps are fitted with the QuickSwitch™ interchangeable system. Case dimensions: 47 mm x 39.8 mm. Thickness: 11.6 mm. Water-resistant up to 10 bar (approx. 100 meters/330 feet)."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "Cartier Fix",
+    "YBlocklist"
+   ],
+   "store": "Watches of Switzerland",
+   "storeDomain": "watchesofswitzerland.com",
+   "url": "https://www.watchesofswitzerland.com/products/cartier-santos-wssa0083-17311808",
+   "cut": "img/wat-247fb57a/cut.webp",
+   "cutAspect": 0.6722,
+   "images": [
+    "img/wat-247fb57a/1.webp",
+    "img/wat-247fb57a/2.webp",
+    "img/wat-247fb57a/3.webp",
+    "img/wat-247fb57a/4.webp"
+   ],
+   "packshotIndex": 0
+  },
+  {
+   "id": "wat-1f8d4b7a",
+   "category": "watches",
+   "brand": "A. Lange & Söhne",
+   "name": "Lange 1 'Prussian Blue'",
+   "type": "Watches",
+   "price": 75950.0,
+   "mrp": null,
+   "currency": "USD",
+   "priceUSD": 75950.0,
+   "options": {
+    "label": null,
+    "values": []
+   },
+   "description": {
+    "paragraphs": [
+     "Overall Condition: Excellent condition overall. Case remains sharp with factory finishing present. Dial and handset are in equally, excellent condition. Factory strap and pin buckle show only light wear.",
+     "What you’re looking at is not simply a great dress watch—it’s one of the defining designs of modern watchmaking.",
+     "When A. Lange & Söhne introduced the Lange 1 in the 1990s, it changed the conversation almost overnight. The asymmetrical dial layout, outsized date, off-center time display, and unapologetically German sense of proportion felt entirely new at the time—and remarkably, still do today. Plenty of watches have become icons. Very few have fundamentally reshaped the visual language of haute horlogerie ."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "A:S 2026-10-21 Import",
+    "New Arrival",
+    "YBlocklist"
+   ],
+   "store": "Watches of Switzerland",
+   "storeDomain": "watchesofswitzerland.com",
+   "url": "https://www.watchesofswitzerland.com/products/lange-sohne-lange-1-40993542-as12813-40993542",
+   "cut": "img/wat-1f8d4b7a/cut.webp",
+   "cutAspect": 0.5533,
+   "images": [
+    "img/wat-1f8d4b7a/1.webp",
+    "img/wat-1f8d4b7a/2.webp",
+    "img/wat-1f8d4b7a/3.webp",
+    "img/wat-1f8d4b7a/4.webp"
+   ],
+   "packshotIndex": 0
+  },
+  {
+   "id": "wat-1c664b56",
+   "category": "watches",
+   "brand": "Tudor",
+   "name": "Black Bay 58",
+   "type": "Watches",
+   "price": 5350.0,
+   "mrp": null,
+   "currency": "USD",
+   "priceUSD": 5350.0,
+   "options": {
+    "label": null,
+    "values": []
+   },
+   "description": {
+    "paragraphs": [
+     "This Black Bay 58 is available on a five-link bracelet, a three-link bracelet or a rubber strap. All three have TUDOR’s rapid adjustment system known as \"T-fit\", making the watch more wearable than ever before, not to mention a new case shape at 11.7mm thick. Not only is the case design updated, the aesthetic is as well. At first glance it’s easy to see that the text on the dial has been reduced to two lines in line with TUDOR’s Master Chronometer certified watches, but upon closer inspection you’ll notice pinched hands at the base and a new bezel and crown design.",
+     "The Black Bay remains one of TUDOR’s most recognized and recognisable lines. In the Black Bay 58, the case offers the proportions of a 39mm case with a thinner profile. The unidirectional rotatable bezel offers very prehensible sides and its insert shows subtly curved numerals aligning with the outline of the outer ring. However, the aesthetic details don’t stop at the case dimensions and bezel. The seconds hand recalls the look of the brand’s early divers’ watches with a lollipop design, while the domed dial is matt just like the early TUDOR diving watches. Ergonomics have evolved as well, with a redesigned crown, reminiscent of the curves found on the crowns of the brand's historical technical watches, that is set flush to the middle case band."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "Classic",
+    "Dive",
+    "Hypotenuse Test",
+    "New Arrival",
+    "New Release",
+    "WW26"
+   ],
+   "store": "Watches of Switzerland",
+   "storeDomain": "watchesofswitzerland.com",
+   "url": "https://www.watchesofswitzerland.com/products/tudor-black-bay-m7939a1a0nu-0001-17771116",
+   "cut": "img/wat-1c664b56/cut.webp",
+   "cutAspect": 0.6244,
+   "images": [
+    "img/wat-1c664b56/1.webp",
+    "img/wat-1c664b56/2.webp",
+    "img/wat-1c664b56/3.webp",
+    "img/wat-1c664b56/4.webp"
+   ],
+   "packshotIndex": 0
+  },
+  {
+   "id": "wat-191863fc",
+   "category": "watches",
+   "brand": "Patek Philippe",
+   "name": "Nautilus 'Midsize'",
+   "type": "Watches",
+   "price": 53850.0,
+   "mrp": null,
+   "currency": "USD",
+   "priceUSD": 53850.0,
+   "options": {
+    "label": null,
+    "values": []
+   },
+   "description": {
+    "paragraphs": [
+     "Overall Condition: Excellent condition overall. Case and bracelet show light wear. Dial and matching handset are excellent with even patina.",
+     "The Patek Philippe Nautilus is without question one of the great horological icons of the 1970s, and one of the most in-demand timepiece models on the planet.",
+     "Collectors and prospectors alike are clamoring to get their hands on Genta's second great luxury sports watch, and with the discontinuation of the flagship reference 5711 in steel, this dramatic rise in popularity shows no signs of slowing down.",
+     "This Nautilus, a Reference 3900/1A, embodies all of the porthole-inspired character of its larger siblings. Dating to the 1980s, it is presented in an elegant 32mm stainless steel case with matching integrated bracelet, Patek's Calibre E23 S C quartz movement, and a stunning blue gradient teak-pattern 'Sigma' dial with beautifully patinated, luminous indices and matching handset."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "A:S 2026-10-21 Import",
+    "New Arrival",
+    "YBlocklist"
+   ],
+   "store": "Watches of Switzerland",
+   "storeDomain": "watchesofswitzerland.com",
+   "url": "https://www.watchesofswitzerland.com/products/patek-philippe-nautilus-midsize-as12338",
+   "cut": "img/wat-191863fc/cut.webp",
+   "cutAspect": 0.4356,
+   "images": [
+    "img/wat-191863fc/1.webp",
+    "img/wat-191863fc/2.webp",
+    "img/wat-191863fc/3.webp",
+    "img/wat-191863fc/4.webp"
+   ],
+   "packshotIndex": 0
+  },
+  {
+   "id": "acc-37f6573d",
+   "category": "accessories",
+   "brand": "Garrett Leight",
+   "name": "Verdugo Sun",
+   "type": "Sunglasses",
+   "price": 455.0,
+   "mrp": null,
+   "currency": "USD",
+   "priceUSD": 455.0,
+   "options": {
+    "label": "Size",
+    "values": [
+     {
+      "label": "45",
+      "available": true
+     }
+    ]
+   },
+   "description": {
+    "paragraphs": [
+     "An evolution of one of our legacy frames, the Verdugo Sun brings clean lines and an easy, everyday thickness to a refined outline. Its classic, tapered GLCO temple is finished with our signature hinge, rivets, and core wire – heritage details built for daily wear. Equal parts throwback and update, it's the modern sun essential your rotation's been missing. 100% UV Protection."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "colors:Black",
+    "colors:Brown",
+    "colors:Green",
+    "colors:Tortoise",
+    "colors:Translucent",
+    "material:acetate"
+   ],
+   "store": "Garrett Leight",
+   "storeDomain": "garrettleight.com",
+   "url": "https://www.garrettleight.com/products/verdugo-sun",
+   "cut": "img/acc-37f6573d/cut.webp",
+   "cutAspect": 2.8302,
+   "images": [
+    "img/acc-37f6573d/1.webp",
+    "img/acc-37f6573d/2.webp",
+    "img/acc-37f6573d/3.webp",
+    "img/acc-37f6573d/4.webp"
+   ],
+   "packshotIndex": 0
+  },
+  {
+   "id": "acc-e3d739b6",
+   "category": "accessories",
+   "brand": "Mejuri",
+   "name": "Bold Figaro Chain Bracelet",
+   "type": "Chain",
+   "price": 198.0,
+   "mrp": null,
+   "currency": "USD",
+   "priceUSD": 198.0,
+   "options": {
+    "label": "Length",
+    "values": [
+     {
+      "label": "7 inches",
+      "available": true
+     },
+     {
+      "label": "7.5 inches",
+      "available": true
+     },
+     {
+      "label": "8 inches",
+      "available": true
+     }
+    ]
+   },
+   "description": {
+    "paragraphs": [
+     "A bolder take on our classic Figaro Chain Bracelet. Bold, unisex, stackable, we’re checking all the boxes with this one. Wear with a tee or a suit or a gown—there are no rules."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "Figaro Chain LES",
+    "June2Launch",
+    "Material:14k Yellow Gold",
+    "Material:Sterling Silver",
+    "promo eligible"
+   ],
+   "store": "Mejuri",
+   "storeDomain": "mejuri.com",
+   "url": "https://www.mejuri.com/products/bold-figaro-chain-bracelet",
+   "cut": "img/acc-e3d739b6/cut.webp",
+   "cutAspect": 0.9978,
+   "images": [
+    "img/acc-e3d739b6/1.webp",
+    "img/acc-e3d739b6/2.webp",
+    "img/acc-e3d739b6/3.webp",
+    "img/acc-e3d739b6/4.webp"
+   ],
+   "packshotIndex": 0
+  },
+  {
+   "id": "acc-83aef4d2",
+   "category": "accessories",
+   "brand": "Aimé Leon Dore",
+   "name": "ALD / New Era Mets Cashmere Ballpark Hat",
+   "type": "Hats",
+   "price": 140.0,
+   "mrp": null,
+   "currency": "USD",
+   "priceUSD": 140.0,
+   "options": {
+    "label": "Size",
+    "values": [
+     {
+      "label": "One Size",
+      "available": true
+     }
+    ]
+   },
+   "description": {
+    "paragraphs": [],
+    "bullets": [
+     "One size; Adjustable Circumference measures 25.2” at full extension"
+    ]
+   },
+   "tags": [
+    "a_fw26_cashmere",
+    "a_fw26_holiday",
+    "a_fw26_holidayday3",
+    "AltText_tagged",
+    "best_seller",
+    "dev-collection-HOLIDAY"
+   ],
+   "store": "Aimé Leon Dore",
+   "storeDomain": "aimeleondore.com",
+   "url": "https://www.aimeleondore.com/products/ald-new-era-mets-cashmere-ballpark-hat",
+   "cut": "img/acc-83aef4d2/cut.webp",
+   "cutAspect": 1.0885,
+   "images": [
+    "img/acc-83aef4d2/1.webp",
+    "img/acc-83aef4d2/2.webp",
+    "img/acc-83aef4d2/3.webp",
+    "img/acc-83aef4d2/4.webp"
+   ],
+   "packshotIndex": 0
+  },
+  {
+   "id": "acc-20d150fa",
+   "category": "accessories",
+   "brand": "Krewe",
+   "name": "OLIVIA | Chamomile",
+   "type": "SUNGLASSES",
+   "price": 295.0,
+   "mrp": null,
+   "currency": "USD",
+   "priceUSD": 295.0,
+   "options": {
+    "label": null,
+    "values": []
+   },
+   "description": {
+    "paragraphs": [
+     "A balancing act. OLIVIA is here to shake things up with a spunky, bold cat-eye silhouette. Heavy beveling at the temples of the frame offset the simple, circular lenses to create a perfect look for play and pleasure.",
+     "Lifetime Warranty",
+     "Dark Green Gradient Lens",
+     "Handcrafted, Luxury Acetate Sunglasses"
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "$255",
+    "29416",
+    "Acetate",
+    "acetate cat eye",
+    "acetate cate eye",
+    "acetate cateye"
+   ],
+   "store": "Krewe",
+   "storeDomain": "krewe.com",
+   "url": "https://www.krewe.com/products/olivia-chamomile-sunglasses",
+   "cut": "img/acc-20d150fa/cut.webp",
+   "cutAspect": 2.3873,
+   "images": [
+    "img/acc-20d150fa/1.webp",
+    "img/acc-20d150fa/2.webp",
+    "img/acc-20d150fa/3.webp",
+    "img/acc-20d150fa/4.webp"
+   ],
+   "packshotIndex": 0
+  },
+  {
+   "id": "acc-c6f12613",
+   "category": "accessories",
+   "brand": "Missoma",
+   "name": "Wavy Ridge Caspia Gemstone Cord Necklace",
+   "type": "Necklaces",
+   "price": 165.0,
+   "mrp": null,
+   "currency": "GBP",
+   "priceUSD": 209.55,
+   "options": {
+    "label": null,
+    "values": []
+   },
+   "description": {
+    "paragraphs": [
+     "Meet the Caspia necklace. The statement pendant features a central labradorite gemstone that catches the lights with its open back setting. Its twisted ridge detailing is inspired by the ripples in the ocean, and it floats on a chubby cord necklace. Let it take centre stage in your layers.",
+     "Metal: 18ct Recycled Gold Plated on Brass",
+     "Pendant Dimensions: 17mm x 25mm",
+     "Stone Dimensions: 14mm x 9mm"
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "__label:New to Sale",
+    "Collection: Necklaces",
+    "Collection: New Lines Added",
+    "Collection: New to Sale",
+    "collection: sale",
+    "Discontinued Style"
+   ],
+   "store": "Missoma",
+   "storeDomain": "missoma.com",
+   "url": "https://www.missoma.com/products/wavy-ridge-caspia-gemstone-cord-necklace-18ct-gold-plated-labradorite",
+   "cut": "img/acc-c6f12613/cut.webp",
+   "cutAspect": 0.79,
+   "images": [
+    "img/acc-c6f12613/1.webp",
+    "img/acc-c6f12613/2.webp",
+    "img/acc-c6f12613/3.webp",
+    "img/acc-c6f12613/4.webp"
+   ],
+   "packshotIndex": 3
+  },
+  {
+   "id": "acc-69d103f6",
+   "category": "accessories",
+   "brand": "Polène",
+   "name": "Portefeuille Sierra - Trio Camel",
+   "type": "Wallets & Money Clips",
+   "price": 160.0,
+   "mrp": null,
+   "currency": "EUR",
+   "priceUSD": 172.8,
+   "options": {
+    "label": null,
+    "values": []
+   },
+   "description": {
+    "paragraphs": [
+     "Le \"Portefeuille Sierra\" reprend deux codes chers à l'esthétique de Polène : le travail de la courbe et le travail du cuir en camaïeu de couleurs ou de finitions."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "All",
+    "color_camel",
+    "color_marron",
+    "color_multicolor",
+    "family_portefeuille-sierra",
+    "LABEL:OOS"
+   ],
+   "store": "Polène",
+   "storeDomain": "polene-paris.com",
+   "url": "https://www.polene-paris.com/products/sierra-wallet-camel",
+   "cut": "img/acc-69d103f6/cut.webp",
+   "cutAspect": 1.7538,
+   "images": [
+    "img/acc-69d103f6/1.webp",
+    "img/acc-69d103f6/2.webp",
+    "img/acc-69d103f6/3.webp",
+    "img/acc-69d103f6/4.webp"
+   ],
+   "packshotIndex": 0
+  },
+  {
+   "id": "acc-f8caa2bf",
+   "category": "accessories",
+   "brand": "Garrett Leight",
+   "name": "Hancock Sun",
+   "type": "Sunglasses",
+   "price": 425.0,
+   "mrp": null,
+   "currency": "USD",
+   "priceUSD": 425.0,
+   "options": {
+    "label": "Size",
+    "values": [
+     {
+      "label": "51",
+      "available": true
+     }
+    ]
+   },
+   "description": {
+    "paragraphs": [
+     "A rounder member of the aviator and navigator family, the Hancock Sun carries forward a classic teardrop shape with real pedigree, one that has flattered a wide range of face shapes for decades. Details like GLCO’s dual-plated hinges and original core wire root the design in old-world optical craftsmanship. Part aviator, part navigator, all charm - the Hancock Sun brings two classic lineages together in one distinct silhouette. 100% UV protection."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "colors:Black",
+    "colors:Brown",
+    "colors:Green",
+    "colors:Grey",
+    "colors:Silver",
+    "colors:Translucent"
+   ],
+   "store": "Garrett Leight",
+   "storeDomain": "garrettleight.com",
+   "url": "https://www.garrettleight.com/products/hancock-sun",
+   "cut": "img/acc-f8caa2bf/cut.webp",
+   "cutAspect": 2.7778,
+   "images": [
+    "img/acc-f8caa2bf/1.webp",
+    "img/acc-f8caa2bf/2.webp",
+    "img/acc-f8caa2bf/3.webp",
+    "img/acc-f8caa2bf/4.webp"
+   ],
+   "packshotIndex": 0
+  },
+  {
+   "id": "acc-43c4056a",
+   "category": "accessories",
+   "brand": "Mejuri",
+   "name": "Easy Medium Hoops",
+   "type": "Hoop",
+   "price": 448.0,
+   "mrp": null,
+   "currency": "USD",
+   "priceUSD": 448.0,
+   "options": {
+    "label": null,
+    "values": []
+   },
+   "description": {
+    "paragraphs": [
+     "As effortless as your white tee. Handcrafted in 10k gold, it's easy to wear and put on—featuring a clicker closure for maximum comfort and security. Perfect for every single day."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "badge:Best Seller",
+    "FY26 10k Flips",
+    "mastersku:p62709949",
+    "Material:14k Yellow Gold",
+    "promo eligible",
+    "stack15"
+   ],
+   "store": "Mejuri",
+   "storeDomain": "mejuri.com",
+   "url": "https://www.mejuri.com/products/easy-medium-hoops",
+   "cut": "img/acc-43c4056a/cut.webp",
+   "cutAspect": 1.1552,
+   "images": [
+    "img/acc-43c4056a/1.webp",
+    "img/acc-43c4056a/2.webp",
+    "img/acc-43c4056a/3.webp",
+    "img/acc-43c4056a/4.webp"
+   ],
+   "packshotIndex": 0
+  },
+  {
+   "id": "acc-90b0906d",
+   "category": "accessories",
+   "brand": "Aimé Leon Dore",
+   "name": "ALD / LA Dodgers Leather Bi-Fold Wallet",
+   "type": "Leather Goods",
+   "price": 250.0,
+   "mrp": null,
+   "currency": "USD",
+   "priceUSD": 250.0,
+   "options": {
+    "label": "Size",
+    "values": [
+     {
+      "label": "One Size",
+      "available": true
+     }
+    ]
+   },
+   "description": {
+    "paragraphs": [],
+    "bullets": [
+     "Measures 3.7” W x 4.1” L"
+    ]
+   },
+   "tags": [
+    "a_fw26_gifts",
+    "a_fw26_holiday",
+    "a_fw26_holidayday2",
+    "a_fw26_hwlg",
+    "AltText_tagged",
+    "bags"
+   ],
+   "store": "Aimé Leon Dore",
+   "storeDomain": "aimeleondore.com",
+   "url": "https://www.aimeleondore.com/products/ald-la-dodgers-leather-bi-fold-wallet",
+   "cut": "img/acc-90b0906d/cut.webp",
+   "cutAspect": 1.1645,
+   "images": [
+    "img/acc-90b0906d/1.webp",
+    "img/acc-90b0906d/2.webp",
+    "img/acc-90b0906d/3.webp",
+    "img/acc-90b0906d/4.webp"
+   ],
+   "packshotIndex": 0
+  },
+  {
+   "id": "acc-900f8090",
+   "category": "accessories",
+   "brand": "Krewe",
+   "name": "STL II | Haze + Iberia 12K Polarized",
+   "type": "SUNGLASSES",
+   "price": 435.0,
+   "mrp": null,
+   "currency": "USD",
+   "priceUSD": 435.0,
+   "options": {
+    "label": null,
+    "values": []
+   },
+   "description": {
+    "paragraphs": [
+     "Our iconic classic. Inspired by the historic cast-iron balconies found in New Orleans’ French Quarter, the STL II’s rounded oversized silhouette complements every face shape while its distinct brow upgrades y’alls everyday uniform. Easy wear is a given with sturdy-yet-comfortable supports at the nose and temples.",
+     "Love this style? Try STL NYLON.",
+     "Lifetime Warranty",
+     "Grass Green Polarized Lens"
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "average sunglasses",
+    "beach",
+    "driving",
+    "fishing",
+    "fishing frames",
+    "Fit_Average"
+   ],
+   "store": "Krewe",
+   "storeDomain": "krewe.com",
+   "url": "https://www.krewe.com/products/stl-ii-haze-iberia-12k-polarized-sunglasses",
+   "cut": "img/acc-900f8090/cut.webp",
+   "cutAspect": 2.1127,
+   "images": [
+    "img/acc-900f8090/1.webp",
+    "img/acc-900f8090/2.webp",
+    "img/acc-900f8090/3.webp",
+    "img/acc-900f8090/4.webp"
+   ],
+   "packshotIndex": 0
+  },
+  {
+   "id": "acc-451eb784",
+   "category": "accessories",
+   "brand": "Missoma",
+   "name": "Sculptural Ridge Stacking Ring | Silver Plated",
+   "type": "Rings",
+   "price": 125.0,
+   "mrp": null,
+   "currency": "GBP",
+   "priceUSD": 158.75,
+   "options": {
+    "label": "Size",
+    "values": [
+     {
+      "label": "H",
+      "available": true
+     },
+     {
+      "label": "J",
+      "available": false
+     },
+     {
+      "label": "L",
+      "available": true
+     },
+     {
+      "label": "M",
+      "available": false
+     },
+     {
+      "label": "N",
+      "available": true
+     },
+     {
+      "label": "O",
+      "available": false
+     },
+     {
+      "label": "P",
+      "available": false
+     },
+     {
+      "label": "R",
+      "available": false
+     },
+     {
+      "label": "T",
+      "available": false
+     }
+    ]
+   },
+   "description": {
+    "paragraphs": [
+     "Inspired by sculptural shapes, this everyday stacking ring features signature ridge detailing. Wear solo or stack with the gold Sculptural Ridge Stacking Ring for a mixed metal moment.",
+     "Metal: Silver Plated on Brass",
+     "Ring width: Tapers from 7.2mm to 4mm",
+     "Weight: 7g"
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "__label:",
+    "__label:New In",
+    "Available Stock .com",
+    "Collection: Rings",
+    "Collection: Sculptural",
+    "Discount:Up to 30%"
+   ],
+   "store": "Missoma",
+   "storeDomain": "missoma.com",
+   "url": "https://www.missoma.com/products/sculptural-ridge-stacking-ring-silver-plated",
+   "cut": "img/acc-451eb784/cut.webp",
+   "cutAspect": 0.9196,
+   "images": [
+    "img/acc-451eb784/1.webp",
+    "img/acc-451eb784/2.webp",
+    "img/acc-451eb784/3.webp",
+    "img/acc-451eb784/4.webp"
+   ],
+   "packshotIndex": 0
+  },
+  {
+   "id": "acc-edb520e6",
+   "category": "accessories",
+   "brand": "Mejuri",
+   "name": "Clara Ribbon Necklace",
+   "type": "Chain",
+   "price": 328.0,
+   "mrp": null,
+   "currency": "USD",
+   "priceUSD": 328.0,
+   "options": {
+    "label": "Length",
+    "values": [
+     {
+      "label": "15.5-17.5\"",
+      "available": true
+     }
+    ]
+   },
+   "description": {
+    "paragraphs": [
+     "Bows are pretty, but ribbons are a statement. A continuous strand of precious metal featuring undulating loops that rest effortlessly along the collarbone."
+    ],
+    "bullets": []
+   },
+   "tags": [
+    "promo eligible",
+    "Waveform"
+   ],
+   "store": "Mejuri",
+   "storeDomain": "mejuri.com",
+   "url": "https://www.mejuri.com/products/clara-ribbon-necklace",
+   "cut": "img/acc-edb520e6/cut.webp",
+   "cutAspect": 1.7274,
+   "images": [
+    "img/acc-edb520e6/1.webp",
+    "img/acc-edb520e6/2.webp",
+    "img/acc-edb520e6/3.webp",
+    "img/acc-edb520e6/4.webp"
+   ],
+   "packshotIndex": 2
+  },
+  {
+   "id": "acc-8b58e71c",
+   "category": "accessories",
+   "brand": "Garrett Leight",
+   "name": "Glco X Laurent Dagenais Verdugo Sun",
+   "type": "Sunglasses",
+   "price": 455.0,
+   "mrp": null,
+   "currency": "USD",
+   "priceUSD": 455.0,
+   "options": {
+    "label": "Size",
+    "values": [
+     {
+      "label": "45",
+      "available": true
+     }
+    ]
+   },
+   "description": {
+    "paragraphs": [
+     "Exclusive collaboration with Chef Laurent Dagenais to commemorate our Paris Showroom Event.",
+     "An evolution of one of our legacy frames, this Verdugo Sun brings clean lines and an easy, everyday thickness to a refined outline. Its classic, tapered GLCO temple is finished with our signature hinge, rivets, and core wire – heritage details built for daily wear. Equal parts throwback and update, it's the modern sun essential your rotation's been missing. 100% UV Protection."
+    ],
+    "bullets": []
+   },
+   "tags": [],
+   "store": "Garrett Leight",
+   "storeDomain": "garrettleight.com",
+   "url": "https://www.garrettleight.com/products/glco-x-laurent-dagenais-verdugo-sun",
+   "cut": "img/acc-8b58e71c/cut.webp",
+   "cutAspect": 2.8213,
+   "images": [
+    "img/acc-8b58e71c/1.webp",
+    "img/acc-8b58e71c/2.webp"
+   ],
+   "packshotIndex": 0
+  },
+  {
+   "id": "acc-050de9df",
+   "category": "accessories",
+   "brand": "Cuyana",
+   "name": "Men's Fold Cardholder",
+   "type": "Small Leather Goods",
+   "price": 98.0,
+   "mrp": null,
+   "currency": "USD",
+   "priceUSD": 98.0,
+   "options": {
+    "label": "Size",
+    "values": [
+     {
+      "label": "One Size",
+      "available": true
+     }
+    ]
+   },
+   "description": {
+    "paragraphs": [
+     "For the fellas in your life. Crafted from premium Italian leather, this carry-on friendly, folding card holder stores the essentials while keeping a low-profile design."
+    ],
+    "bullets": []
+   },
+   "tags": [],
+   "store": "Cuyana",
+   "storeDomain": "cuyana.com",
+   "url": "https://www.cuyana.com/products/mens-fold-cardholder",
+   "cut": "img/acc-050de9df/cut.webp",
+   "cutAspect": 1.2609,
+   "images": [
+    "img/acc-050de9df/1.webp",
+    "img/acc-050de9df/2.webp",
+    "img/acc-050de9df/3.webp",
+    "img/acc-050de9df/4.webp"
+   ],
+   "packshotIndex": 0
+  },
+  {
+   "id": "acc-9847c3ce",
+   "category": "accessories",
+   "brand": "Aimé Leon Dore",
+   "name": "ALD / New Era Yankees Cashmere Ballpark Hat",
+   "type": "Hats",
+   "price": 140.0,
+   "mrp": null,
+   "currency": "USD",
+   "priceUSD": 140.0,
+   "options": {
+    "label": "Size",
+    "values": [
+     {
+      "label": "One Size",
+      "available": true
+     }
+    ]
+   },
+   "description": {
+    "paragraphs": [],
+    "bullets": [
+     "One size; Adjustable Circumference measures 25.2” at full extension"
+    ]
+   },
+   "tags": [
+    "a_fw26_cashmere",
+    "a_fw26_holiday",
+    "a_fw26_holidayday3",
+    "AltText_tagged",
+    "best_seller",
+    "dev-collection-HOLIDAY"
+   ],
+   "store": "Aimé Leon Dore",
+   "storeDomain": "aimeleondore.com",
+   "url": "https://www.aimeleondore.com/products/ald-new-era-yankees-cashmere-ballpark-hat",
+   "cut": "img/acc-9847c3ce/cut.webp",
+   "cutAspect": 1.0885,
+   "images": [
+    "img/acc-9847c3ce/1.webp",
+    "img/acc-9847c3ce/2.webp",
+    "img/acc-9847c3ce/3.webp",
+    "img/acc-9847c3ce/4.webp"
+   ],
+   "packshotIndex": 0
+  }
+ ]
+};

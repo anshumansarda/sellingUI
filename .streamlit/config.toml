@@ -1,0 +1,13 @@
+[server]
+enableStaticServing = true
+
+[theme]
+base = "light"
+backgroundColor = "#efece6"
+
+[client]
+toolbarMode = "minimal"
+showSidebarNavigation = false
+
+[browser]
+gatherUsageStats = false
