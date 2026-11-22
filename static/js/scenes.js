@@ -431,8 +431,8 @@
         const it = document.createElement("div");
         it.className = "plinth-it";
         it.dataset.i = i;
-        it.innerHTML = `<div class="obj"><i class="halo"></i><img class="prod" src="${CR.asset(p.cut)}" alt="${CR.esc(p.brand + " " + p.name)}" draggable="false"></div>
-          <div class="plinth"><i class="top"></i><i class="body"></i><i class="glow"></i></div>`;
+        it.innerHTML = `<div class="obj"><img class="shadow" src="${CR.asset(p.cut)}" alt="" draggable="false"><img class="prod" src="${CR.asset(p.cut)}" alt="${CR.esc(p.brand + " " + p.name)}" draggable="false"></div>
+          <div class="plinth"><i class="wshadow"></i><i class="fshadow"></i><i class="glow"></i><i class="body"></i><i class="top"></i></div>`;
         this.world.appendChild(it);
         return { el: it, obj: it.firstElementChild, img: it.querySelector(".prod"), p, ph: (i * 1.7) % 6.28 };
       });
@@ -444,10 +444,10 @@
       const m = (this.m = {
         phone, base,
         gapC: phone ? base * 1.25 : base * 1.75,
-        gapS: phone ? base * 0.8 : base * 1.0,
+        gapS: phone ? base * 0.95 : base * 1.22,
         R: phone ? vw * 1.1 : Math.max(640, vw * 0.52),
         floorY: phone ? vh * 0.6 : vh * 0.62,
-        plW: base * 1.05,
+        plW: base * 0.9,
         plH: phone ? vh * 0.2 : vh * 0.21,
         pop: phone ? 0.12 : 0.24,
       });

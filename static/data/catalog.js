@@ -1,5 +1,6 @@
 window.__CATALOG__ = {
- "generated": "2026-11-22",
+ "generated": "2026-11-23",
+ "version": 1795374091,
  "rates": {
   "USD": 1.0,
   "EUR": 1.08,
@@ -2421,7 +2422,7 @@ window.__CATALOG__ = {
    "storeDomain": "garrettleight.com",
    "url": "https://www.garrettleight.com/products/verdugo-sun",
    "cut": "img/acc-37f6573d/cut.webp",
-   "cutAspect": 2.8302,
+   "cutAspect": 2.8391,
    "images": [
     "img/acc-37f6573d/1.webp",
     "img/acc-37f6573d/2.webp",
@@ -2474,7 +2475,7 @@ window.__CATALOG__ = {
    "storeDomain": "mejuri.com",
    "url": "https://www.mejuri.com/products/bold-figaro-chain-bracelet",
    "cut": "img/acc-e3d739b6/cut.webp",
-   "cutAspect": 0.9978,
+   "cutAspect": 1.0056,
    "images": [
     "img/acc-e3d739b6/1.webp",
     "img/acc-e3d739b6/2.webp",
@@ -2520,7 +2521,7 @@ window.__CATALOG__ = {
    "storeDomain": "aimeleondore.com",
    "url": "https://www.aimeleondore.com/products/ald-new-era-mets-cashmere-ballpark-hat",
    "cut": "img/acc-83aef4d2/cut.webp",
-   "cutAspect": 1.0885,
+   "cutAspect": 1.0017,
    "images": [
     "img/acc-83aef4d2/1.webp",
     "img/acc-83aef4d2/2.webp",
@@ -2564,7 +2565,7 @@ window.__CATALOG__ = {
    "storeDomain": "krewe.com",
    "url": "https://www.krewe.com/products/olivia-chamomile-sunglasses",
    "cut": "img/acc-20d150fa/cut.webp",
-   "cutAspect": 2.3873,
+   "cutAspect": 2.4259,
    "images": [
     "img/acc-20d150fa/1.webp",
     "img/acc-20d150fa/2.webp",
@@ -2695,7 +2696,7 @@ window.__CATALOG__ = {
    "storeDomain": "garrettleight.com",
    "url": "https://www.garrettleight.com/products/hancock-sun",
    "cut": "img/acc-f8caa2bf/cut.webp",
-   "cutAspect": 2.7778,
+   "cutAspect": 2.795,
    "images": [
     "img/acc-f8caa2bf/1.webp",
     "img/acc-f8caa2bf/2.webp",
@@ -2736,7 +2737,7 @@ window.__CATALOG__ = {
    "storeDomain": "mejuri.com",
    "url": "https://www.mejuri.com/products/easy-medium-hoops",
    "cut": "img/acc-43c4056a/cut.webp",
-   "cutAspect": 1.1552,
+   "cutAspect": 1.0498,
    "images": [
     "img/acc-43c4056a/1.webp",
     "img/acc-43c4056a/2.webp",
@@ -2782,7 +2783,7 @@ window.__CATALOG__ = {
    "storeDomain": "aimeleondore.com",
    "url": "https://www.aimeleondore.com/products/ald-la-dodgers-leather-bi-fold-wallet",
    "cut": "img/acc-90b0906d/cut.webp",
-   "cutAspect": 1.1645,
+   "cutAspect": 1.1545,
    "images": [
     "img/acc-90b0906d/1.webp",
     "img/acc-90b0906d/2.webp",
@@ -2826,7 +2827,7 @@ window.__CATALOG__ = {
    "storeDomain": "krewe.com",
    "url": "https://www.krewe.com/products/stl-ii-haze-iberia-12k-polarized-sunglasses",
    "cut": "img/acc-900f8090/cut.webp",
-   "cutAspect": 2.1127,
+   "cutAspect": 2.0979,
    "images": [
     "img/acc-900f8090/1.webp",
     "img/acc-900f8090/2.webp",
@@ -2907,7 +2908,7 @@ window.__CATALOG__ = {
    "storeDomain": "missoma.com",
    "url": "https://www.missoma.com/products/sculptural-ridge-stacking-ring-silver-plated",
    "cut": "img/acc-451eb784/cut.webp",
-   "cutAspect": 0.9196,
+   "cutAspect": 0.8786,
    "images": [
     "img/acc-451eb784/1.webp",
     "img/acc-451eb784/2.webp",
@@ -3026,7 +3027,7 @@ window.__CATALOG__ = {
    "storeDomain": "cuyana.com",
    "url": "https://www.cuyana.com/products/mens-fold-cardholder",
    "cut": "img/acc-050de9df/cut.webp",
-   "cutAspect": 1.2609,
+   "cutAspect": 1.2449,
    "images": [
     "img/acc-050de9df/1.webp",
     "img/acc-050de9df/2.webp",
@@ -3072,7 +3073,7 @@ window.__CATALOG__ = {
    "storeDomain": "aimeleondore.com",
    "url": "https://www.aimeleondore.com/products/ald-new-era-yankees-cashmere-ballpark-hat",
    "cut": "img/acc-9847c3ce/cut.webp",
-   "cutAspect": 1.0885,
+   "cutAspect": 1.0,
    "images": [
     "img/acc-9847c3ce/1.webp",
     "img/acc-9847c3ce/2.webp",

@@ -17,7 +17,8 @@
 
   // Local static site: "" ; Streamlit sets window.__ASSET_BASE__ to its static route.
   const BASE = window.__ASSET_BASE__ || "";
-  CR.asset = (p) => (p && /^https?:/.test(p) ? p : BASE + p);
+  const VER = doc.version ? "?v=" + doc.version : "";
+  CR.asset = (p) => (p && /^https?:/.test(p) ? p : BASE + p + VER);
 
   const SYM = { USD: "$", EUR: "€", GBP: "£", CAD: "CA$", AUD: "A$", DKK: "kr " };
   CR.money = (amount, cur = "USD") => {

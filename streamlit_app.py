@@ -56,16 +56,16 @@ def build_page(version: str) -> str:
     html = (SITE / "index.html").read_text(encoding="utf-8")
 
     css = (SITE / "css" / "style.css").read_text(encoding="utf-8")
-    html = html.replace('<link rel="stylesheet" href="css/style.css" />', f"<style>{css}</style>")
+    html = re.sub(r'<link rel="stylesheet" href="css/style\.css(\?[^"]*)?" />', lambda _: f"<style>{css}</style>", html)
 
     # catalogue goes in inline (below); drop the external script tag
-    html = html.replace('<script src="data/catalog.js"></script>', "")
+    html = re.sub(r'<script src="data/catalog\.js(\?[^"]*)?"></script>', "", html)
 
     def inline_script(m: re.Match) -> str:
         code = (SITE / m.group(1)).read_text(encoding="utf-8").replace("</script", "<\\/script")
         return f"<script>\n{code}\n</script>"
 
-    html = re.sub(r'<script src="(js/[^"]+)"></script>', inline_script, html)
+    html = re.sub(r'<script src="(js/[^"?]+)(?:\?[^"]*)?"></script>', inline_script, html)
 
     catalog = json.loads((SITE / "data" / "catalog.json").read_text(encoding="utf-8"))
     data = json.dumps(catalog, ensure_ascii=False).replace("</", "<\\/")

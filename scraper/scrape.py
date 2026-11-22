@@ -132,6 +132,14 @@ CURATION: dict[str, list[tuple]] = {
     ],
 }
 
+# per-product background tolerance where the department default doesn't suit the photo
+# (lower keeps pale silver highlights, higher drops a soft studio shadow)
+TOL_OVERRIDE = {
+    "Sculptural Ridge Stacking Ring": 14,
+    "ALD / New Era Mets Cashmere Ballpark": 46,
+    "ALD / New Era Yankees Cashmere Ballpark": 46,
+}
+
 GALLERY_MAX = 4
 GALLERY_W = 1100
 CUT_MAX = 900
@@ -354,11 +362,11 @@ def packshot_score(a: np.ndarray, cat: str) -> float | None:
     return area
 
 
-def save_images(pid: str, cat: str, p: dict, forced_idx: int | None) -> dict:
+def save_images(pid: str, cat: str, p: dict, forced_idx: int | None, tol_override: int | None = None) -> dict:
     folder = OUT_IMG / pid
     folder.mkdir(parents=True, exist_ok=True)
     imgs = p["images"]
-    tol = {"watches": 16, "clothes": 20, "bags": 20, "accessories": 18}[cat]
+    tol = tol_override or {"watches": 16, "clothes": 20, "bags": 20, "accessories": 28}[cat]
     holes = cat in ("bags", "accessories")
 
     # choose the packshot
@@ -455,7 +463,7 @@ def build(cat: str, entries: list[tuple], store_cur: dict) -> list[dict]:
             name = name.split("|")[0].strip()
         name = re.sub(r"^(ALD / |Represent )", lambda m: "" if m.group(1) == "Represent " else m.group(1), name)
         try:
-            imgs = save_images(pid, cat, p, idx)
+            imgs = save_images(pid, cat, p, idx, TOL_OVERRIDE.get(title))
         except Exception as e:  # noqa: BLE001
             print(f"  !! images failed: {e}")
             continue
@@ -505,6 +513,7 @@ def write(products: list[dict]) -> None:
     OUT_JSON.parent.mkdir(parents=True, exist_ok=True)
     doc = json.dumps({
         "generated": date.today().isoformat(),
+        "version": int(time.time()),  # appended to image URLs so a re-scrape is never served from cache
         "rates": TO_USD,
         "count": len(products),
         "products": products,
